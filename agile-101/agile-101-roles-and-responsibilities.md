@@ -5,7 +5,7 @@
 
 **Responsibilities** refer to the tasks and duties of their particular role or job description. It can be beneficial to understand the benefits of implementing functional roles and responsibilities.
 
-![User Story Mindmap](https://raw.githubusercontent.com/lmnaslimited/iyakkam/76f4032791b2a422beb72a05aad19b8f50f3ab75/lmnas-process/user-story-mindmap.drawio.svg)
+![User Story Mindmap](https://raw.githubusercontent.com/lmnaslimited/iyakkam/lmnas-process/lmnas-process/user-story-mindmap.drawio.svg)
  
   
 ### Role: **Scrum Master**
@@ -58,9 +58,8 @@ The primary goal of an **Agile Product Owner** is to represent the customer to t
 
 - Evaluating product progress at each iteration (scrum).
 
-![User Story UseCase](https://raw.githubusercontent.com/lmnaslimited/iyakkam/641e18f2aec01868a7a36edd554fa54b0ea681c1/lmnas-process/user-story-usecase.drawio.svg)
+![User Story UseCase](https://raw.githubusercontent.com/lmnaslimited/iyakkam/lmnas-process/lmnas-process/user-story-usecase.drawio.svg)
 
- 
 
 ### Role: **Developer**
 
@@ -140,7 +139,7 @@ The key function of a **Tester** is to conduct both manual and automated tests o
  - Making sure the codes are encrypted end to end.
 
  ## User Story Process
- ![User Story Process](https://raw.githubusercontent.com/lmnaslimited/iyakkam/641e18f2aec01868a7a36edd554fa54b0ea681c1/lmnas-process/user-story-process.drawio.svg)
+ ![User Story Process](https://raw.githubusercontent.com/lmnaslimited/iyakkam/lmnas-process/lmnas-process/user-story-process.drawio.svg)
   
 
 ### Role: **CI Pipeline**
