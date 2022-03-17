@@ -1,5 +1,5 @@
 # Why Agile:
-Product-based companies like lmnas try to develop robust software products that often take months or years to complete. When these companies apply any Agile methodologies, **it allows them to share the project progress incrementally with the end users on a regular basis so that it becomes possible for them to verify and approve**. so lmnas use agile
+Product-based companies like LMNAs try to develop robust software products that often take months or years to complete. When these companies apply any Agile methodologies, **it allows them to share the project progress incrementally with the end users on a regular basis so that it becomes possible for them to verify and approve**. so LMNAs use agile
 
 The 10th Annual State of Agile Report identified that **95% of organizations that practice Agile development processes have experienced exceptional success after their adoption.** Any company that aims to achieve faster results, better communication, and improved teamwork can benefit from Agile.
 
@@ -7,7 +7,7 @@ The 10th Annual State of Agile Report identified that **95% of organizations tha
     https://media-exp1.licdn.com/dms/image/C5612AQEdzhsKc4TVMA/article-inline_image-shrink_1000_1488/0/1578062037013?e=1652918400&v=beta&t=l079bCtiVUmfL_wzBKcqvorWUiU-2-UE5qnwOmd5sZY
 )
 
-# Why LMNAS adopting Agile:
+# Why Agile at LMNAs?
 ## Agile helps to incorporate customer feedback quickly
 Customer feedback and its incorporation is extremely important for a product’s success, but this is something that gets ignored very frequently. In a survey conducted, it was noticed that only 1% of all the respondents believed that their feedback was considered and the product met their expectations completely. 
 ## Agile helps with Improvement in Project Organization
