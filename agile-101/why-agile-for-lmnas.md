@@ -3,9 +3,7 @@ Product-based companies like LMNAs try to develop robust software products that 
 
 The 10th Annual State of Agile Report identified that **95% of organizations that practice Agile development processes have experienced exceptional success after their adoption.** Any company that aims to achieve faster results, better communication, and improved teamwork can benefit from Agile.
 
-![](
-    https://media-exp1.licdn.com/dms/image/C5612AQEdzhsKc4TVMA/article-inline_image-shrink_1000_1488/0/1578062037013?e=1652918400&v=beta&t=l079bCtiVUmfL_wzBKcqvorWUiU-2-UE5qnwOmd5sZY
-)
+
 
 # Why Agile at LMNAs?
 ## Agile helps to incorporate customer feedback quickly
