@@ -1,16 +1,21 @@
 # LMNAs-101: About
 ##  LMNAs Cloud Solutions
+
+LMNAs, the most adaptable business solution for **growing small and midmarket organizations.** We create solutions with our **uniquely deep knowledge of the industries** we serve.
 ## History:
-- Lmnas Cloud Solutions Llp is a Limited Liability Partnership firm incorporated on **20 May 2021.** It is registered at Registrar of Companies, Chennai.
-- Designated Partners of Lmnas Cloud Solutions Llp are Lakshmi Priya and Arunkumar Ganesan.  
-  
-- Lmnas Cloud Solutions Llp's last financial year end date for which Statement of Accounts and Solvency were filed is N/A and as per records from Ministry of Corporate Affairs (MCA), date of last financial year end date for which Annual Return were filed is N/A.  
-  
-- Lmnas Cloud Solutions Llp's LLP Identification Number is (LLPIN)AAX-0800. Its Email address is arunkumar.ganesan@lmnas.com and its registered address is FLAT NO. B206, RADIANCE ROYAL BLOACK B, 2ND FLOOR, POONTHAMALLEE CHENNAI Chennai TN 600056 IN
+- LMNAs Cloud Solutions Llp is a Limited Liability Partnership firm incorporated on **20 May 2021.** It is registered at Registrar of Companies, Chennai.
+- Designated Partners of LMNAs Cloud Solutions Llp are Lakshmi Priya and Arunkumar Ganesan.  
+- LMNAs is a Product-based-company
+
+## Core Values:
 
 
-# Core Values
-## Vision:
-LMNAs, the most adaptable business solution for **growing small and midmarket organizations.** We create solutions with our **uniquely deep knowledge of the industries** we serve.
-## Mission:
-LMNAs, the most adaptable business solution for **growing small and midmarket organizations.** We create solutions with our **uniquely deep knowledge of the industries** we serve.
+- **To recognising and respecting and valuing differences in people.**
+-  **To providing equal opportunities to everyone**
+-   **Minimalism in everything**
+-  **a way of achieving an aim  or solving a problem by trying a number of different methods and learning  from the mistakes that you make**
+- **Quality over quantity essentially means choosing things of high standard matters more than the amount or number of things that you have**.
+- **sharing your goals and outcomes with your teams in daily basis**
+-  **Reward Yourself At Regular Intervals and Direct Your Energy Toward Something Productive and also Weigh The Pros and Cons.**
+- **Don't look for approval because it feels insecure and unworthy**
+- **Be positive in all aspects and do your work in smarter way**
