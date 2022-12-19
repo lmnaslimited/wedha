@@ -1,6 +1,7 @@
 # Ceremonies in Agile
 Agile ceremonies are **meetings with defined lengths, frequencies, and goals**. Their purpose is to help project teams **plan, track, and engage stakeholders with their work** and help them reflect on how well they've worked together. They're typically a part of the **Scrum framework of Agile.**
 
+
 ![Ceremonies in agile Mindmap](https://raw.githubusercontent.com/lmnaslimited/iyakkam/82f78523e9c23708b3d6b30bb4f8ee11b1ccc2a9/agile-101/agile-101-ceremonies-with-flowdiagram.drawio.svg)
 
 ## Sprint Planning:
