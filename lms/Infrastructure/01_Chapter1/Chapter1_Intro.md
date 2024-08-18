@@ -28,23 +28,16 @@ Learn how to create a Docker image for Ubuntu and run it. This lesson covers the
 We’ll explore how Docker Compose simplifies managing multi-container applications, focusing on defining services, networks, and volumes using a straightforward YAML configuration file for efficient orchestration.
 
   
-## Lesson 6 : Quiz on Docker
+### Lesson 6 : Quiz on Docker
+
+  Test your knowledge with a quiz that covers the key concepts and commands you’ve learned in this chapter. This will help ensure you have a solid understanding of Docker basics.
 
   
-
-Test your knowledge with a quiz that covers the key concepts and commands you’ve learned in this chapter. This will help ensure you have a solid understanding of Docker basics.
-
-  
-
 ### Lesson 7 : Hands-On Practice with Docker
-
-  
 
 Put your skills to the test with hands-on exercises that reinforce the Docker concepts and commands covered in this chapter. These practices will help solidify your understanding through real-world application.
 
 ## Moving Forward
-
-  
 
 - Review the key points from every lesson.
 
@@ -52,11 +45,9 @@ Put your skills to the test with hands-on exercises that reinforce the Docker co
 
 - Stay engaged and ready for more learning!
 
-  
-
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg3NTQwN119
+eyJoaXN0b3J5IjpbLTczMjkxNzg3Ml19
 -->
