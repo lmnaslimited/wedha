@@ -1,0 +1,53 @@
+# Docker Essentials
+
+Welcome to **Docker!** In this lesson, we will explore the foundational concepts of Docker.
+
+
+## Lesson Structure
+
+### Lesson 1 : Introduction to Docker
+
+Explore Docker, a powerful tool for containerization. Understand what Docker is, learn key terminology, and discover how Docker simplifies application development and deployment.
+
+
+### Lesson 2 : Docker Installation and Setup on Ubuntu
+
+Step-by-step guide to installing Docker on an Ubuntu system. Learn how to configure dependencies, add the Docker repository, and run essential commands to set up Docker.
+
+
+### Lesson 3 : Top 10 Widely Used Docker Commands  
+
+Discover the most frequently used Docker commands that every developer should know. This lesson will enhance your command-line efficiency and Docker management skills.
+
+### Lesson 4 : Creating and Running an Ubuntu Image with Docker
+
+Learn how to create a Docker image for Ubuntu and run it. This lesson covers the essential commands and configurations needed to build and execute a Docker container.
+
+### Lesson 5 : Introduction to Docker Compose
+
+We’ll explore how Docker Compose simplifies managing multi-container applications, focusing on defining services, networks, and volumes using a straightforward YAML configuration file for efficient orchestration.
+
+  
+### Lesson 6 : Quiz on Docker
+
+  Test your knowledge with a quiz that covers the key concepts and commands you’ve learned in this chapter. This will help ensure you have a solid understanding of Docker basics.
+
+  
+### Lesson 7 : Hands-On Practice with Docker
+
+Put your skills to the test with hands-on exercises that reinforce the Docker concepts and commands covered in this chapter. These practices will help solidify your understanding through real-world application.
+
+## Moving Forward
+
+- Review the key points from every lesson.
+
+- Prepare for the next lesson by completing any assigned tasks.
+
+- Stay engaged and ready for more learning!
+
+Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTczMjkxNzg3Ml19
+-->
