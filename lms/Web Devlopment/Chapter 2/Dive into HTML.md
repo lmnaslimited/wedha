@@ -6,9 +6,9 @@ In this chapter, we’ll cover the basics of HTML, which is essential for web de
 
 We'll start by defining HTML, understanding its purpose, and exploring its role in web development.
 
-## **Lesson 2: HTML Elements and Tags**
+## Lesson 2: Basic Tags and Attributes
 
-We’ll discover core HTML elements and tags such as headings, paragraphs, links, images, and lists. You’ll learn how to use these tags to build a basic webpage.
+Learn core HTML tags for structuring web pages, including headings, paragraphs, links, images, and lists. Discover how to use attributes like `id`, `class`, and `src` to modify these elements.
 
 ## **Lesson 3: HTML Boilerplate**
 
@@ -46,6 +46,6 @@ Practice building and linking your web pages. Engage in hands-on practice and co
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTgxNDQ5OSwxMzM4NTI5NzM5LDYxMD
-M4ODYyLC02NzQxMjQzNjBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDYxNzA1MzIsMTM3NTgxNDQ5OSwxMz
+M4NTI5NzM5LDYxMDM4ODYyLC02NzQxMjQzNjBdfQ==
 -->
