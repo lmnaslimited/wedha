@@ -6,7 +6,8 @@
 
 
 
-| ![enter image description here](https://i.im.ge/2024/08/19/fhLhWm.inter.jpeg)| The internet is a global network that connects millions of computers and devices, allowing them to communicate and share information. It functions like a vast web where data travels between users and servers.|  
+
+| | |  
 |---------------------------------|-------------|  
 | ![enter image description here](https://i.im.ge/2024/08/19/fhLhWm.inter.jpeg) | The internet is a global network that connects millions of computers and devices, allowing them to communicate and share information. It functions like a vast web where data travels between users and servers. |
 
@@ -35,6 +36,6 @@ The internet is connected globally through cables, satellites, and wireless tech
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjU3NTIwNSwtMTAyMjY1MzgzNiwzOT
+eyJoaXN0b3J5IjpbMTg1NDMzMjgzNCwtMTAyMjY1MzgzNiwzOT
 A0ODkzNjksLTQ1ODkzODE2N119
 -->
