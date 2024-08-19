@@ -1,4 +1,4 @@
-# **Chapter 2: Diving into HTML**
+# **Chapter 2:  into HTML**
 
 In this chapter, we'll explore the fundamentals of HTML, the backbone of web development. We’ll start with basic concepts and progressively dive into more advanced HTML elements.
 
@@ -45,5 +45,5 @@ Great work! 🚀 Let’s keep building!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTcyMDMwMF19
+eyJoaXN0b3J5IjpbLTEzNzQ2MjM2NzVdfQ==
 -->
