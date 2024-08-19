@@ -16,10 +16,13 @@ Think of a website as a restaurant:
 -   **Frontend**: The menu, tables, and decor that customers see (user interface).
 -   **Backend**: The kitchen and staff that prepare and manage the food (server-side operations).
 enter image description here
-![enter image description here](https://im.ge/i/Screenshot-from-2024-08-19-15-15-56.fhiAZ1)
+
 When you place an order (frontend action), the kitchen (backend) processes it and sends the food back to you.
-![enter image description here](https://im.ge/i/Screenshot-from-2024-08-19-15-15-56.fhiAZ1)
+
+[![fhiAZ1.Screenshot-from-2024-08-19-15-15-56.png](https://i.im.ge/2024/08/19/fhiAZ1.Screenshot-from-2024-08-19-15-15-56.png)](https://im.ge/i/Screenshot-from-2024-08-19-15-15-56.fhiAZ1)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2ODI0NDI3LDcxNjU2NDc4NCwtMjA2OT
-Q5NDU0MCwtOTg0MTc3Mzg0XX0=
+eyJoaXN0b3J5IjpbLTE0OTIxNTUzOTksNzE2NTY0Nzg0LC0yMD
+Y5NDk0NTQwLC05ODQxNzczODRdfQ==
 -->
