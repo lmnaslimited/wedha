@@ -43,13 +43,11 @@ Use HTML entities for special characters such as `&nbsp;`, `&copy;`, `&amp;`, et
 **Create a Contact Form for Your Portfolio Page**
 Develop and integrate a contact form into your portfolio page.
 
-## **Moving Forward**
-
-Practice building and linking your web pages. Engage in hands-on practice and complete the examples. Finish the assessments to solidify your understanding.
+## Moving Forward  Practice building and linking your web pages. - Engage in hands-on practice and complete the examples. - Finish the assessments to solidify your understanding.
 
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjQ5ODYxNywxMzc1ODE0NDk5LDEzMz
+eyJoaXN0b3J5IjpbMTczOTY0NzE3OSwxMzc1ODE0NDk5LDEzMz
 g1Mjk3MzksNjEwMzg4NjIsLTY3NDEyNDM2MF19
 -->
