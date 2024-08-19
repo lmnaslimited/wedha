@@ -8,11 +8,11 @@ cypress requires below Packages needs to be installed.
 
 ## 1\. Install Node.js
 
-Downloadd and install Node.js from the [official website](https://nodejs.org/en) , if installed ignore this step
+Download and install Node.js from the [official website](https://nodejs.org/en) , if installed ignore this step
 
 ### Verify Node.js and npm installation
 
-Open a terminal or command promt and run the following commmands to verify installation:
+Open a terminal or command promt and run the following commands to verify installation:
 
 ```
 `node -v 
@@ -46,3 +46,6 @@ Open a terminal or command promt and run the following commmands to open Cypress
   npx cypress open
 
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDI1MzU0OTZdfQ==
+-->
