@@ -4,7 +4,7 @@
 The internet is a global network that connects millions of computers and devices, allowing them to communicate and share information. It functions like a vast web where data travels between users and servers.
 
 <div align="center">
-    <img src="https://www.tutorialspoint.com/computer_fundamentals/images/internet.jpg" alt="Internet">
+    <img src="https://img.freepik.com/premium-vector/circle-different-devices-globe-with-hand-pointing-screen_1226483-4195.jpg" alt="a circle of different devices and a globe with a hand pointing at the screen" width="400">
 </div>
 
 
@@ -29,5 +29,6 @@ The internet is connected globally through cables, satellites, and wireless tech
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNDg5MzY5LC00NTg5MzgxNjddfQ==
+eyJoaXN0b3J5IjpbLTEwMjI2NTM4MzYsMzkwNDg5MzY5LC00NT
+g5MzgxNjddfQ==
 -->
