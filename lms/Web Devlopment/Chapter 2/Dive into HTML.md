@@ -1,8 +1,9 @@
 ## Chapter 2: Let’s Dive into HTML
 
-### Lesson 1: Basic HTML Document Structure
-
 In this chapter, we’ll cover the basics of HTML, which is essential for web development. We’ll begin with fundamental concepts and gradually move on to more advanced HTML elements.
+
+### Lesson 1: Basic HTML Document Structure
+Learn about the fundamental structure of an HTML document and its purpose in web development.
 
 ### Lesson 2: HTML Elements and Tags
 Discover the core HTML elements and tags, including headings, paragraphs, links, images, and lists. Understand how to use these tags to build a basic webpage.
@@ -34,6 +35,6 @@ Practice building and linking your web pages. Engage in hands-on practice and co
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxODU1NzU4LDYxMDM4ODYyLC02NzQxMj
-QzNjBdfQ==
+eyJoaXN0b3J5IjpbMTMzODUyOTczOSw2MTAzODg2MiwtNjc0MT
+I0MzYwXX0=
 -->
