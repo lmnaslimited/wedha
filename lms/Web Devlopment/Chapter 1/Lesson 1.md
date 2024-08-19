@@ -8,7 +8,7 @@ The internet is a global network that connects millions of computers and devices
 
 | | |  
 |---------------------------------|-------------|  
-|  | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |
+| ![enter image description here](https://i.im.ge/2024/08/19/fhLhWm.inter.jpeg) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |
 
 
 <br>  
@@ -35,6 +35,6 @@ The internet is connected globally through cables, satellites, and wireless tech
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2OTM3NzQ3LC0xMDIyNjUzODM2LDM5MD
-Q4OTM2OSwtNDU4OTM4MTY3XX0=
+eyJoaXN0b3J5IjpbLTIwNjAzMjM3NDAsLTEwMjI2NTM4MzYsMz
+kwNDg5MzY5LC00NTg5MzgxNjddfQ==
 -->
