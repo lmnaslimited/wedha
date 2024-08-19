@@ -18,9 +18,8 @@ Think of a website as a restaurant:
 
 When you place an order (frontend action), the kitchen (backend) processes it and sends the food back to you.
 
-## **Moving Forward** 
-Next, we’ll dive deeper into frontend technologies — HTML, CSS, and JavaScript to see how these technologies work together to build engaging web pages. Stay tuned!
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0ODEzMjQ1XX0=
+eyJoaXN0b3J5IjpbLTk4NDE3NzM4NF19
 -->
