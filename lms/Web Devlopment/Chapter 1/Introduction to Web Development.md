@@ -2,8 +2,7 @@
 
 Welcome to **Web Development**! This course will cover the essentials of both frontend and backend technologies.
 
-<div align="center">
-    [![fhaHP8.Screenshot-from-2024-08-19-12-12-13.png](https://i.im.ge/2024/08/19/fhaHP8.Screenshot-from-2024-08-19-12-12-13.png)](https://im.ge/i/Screenshot-from-2024-08-19-12-12-13.fhaHP8)</div>
+<a href="https://im.ge/i/Screenshot-from-2024-08-19-12-12-13.fhaHP8"><img src="https://i.im.ge/2024/08/19/fhaHP8.Screenshot-from-2024-08-19-12-12-13.png" alt="Screenshot from 2024 08 19 12 12 13" border="0"></a>
 
 ## **Lesson Structure**
 
@@ -30,5 +29,6 @@ Learn how to set up your development environment, including Visual Studio Code a
 Thank you for joining us! 🚀 Let’s build amazing things together!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMzc2NTY3LC0xNDI0NTE1NTY3XX0=
+eyJoaXN0b3J5IjpbLTEzNDA2MjkwNDUsLTE0MjQ1MTU1NjddfQ
+==
 -->
