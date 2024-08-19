@@ -18,7 +18,7 @@ We’ll cover the HTML boilerplate code, explaining its significance in creating
 
 You’ll explore browser developer tools to inspect, modify, and debug HTML on your web pages.
 
-## **Assessment**
+## **Assessment - 1**
 
 **Build a Simple Portfolio Website Using Only HTML**
 Apply your knowledge by building a basic portfolio page using HTML.
@@ -39,18 +39,18 @@ Discover how to create hyperlinks to navigate between multiple HTML pages.
 
 Use HTML entities for special characters such as `&nbsp;`, `&copy;`, `&amp;`, etc.
 
-## **Assessment**
+## **Assessment - 2**
 **Create a Contact Form for Your Portfolio Page**
 Develop and integrate a contact form into your portfolio page.
 
-## Moving Forward 
+## **Moving Forward**
 - Practice building and linking your web pages. 
-- - Engage in hands-on practice and complete the examples. 
+-  Engage in hands-on practice and complete the examples. 
 -  Finish the assessments to solidify your understanding.
 
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk1NzU1MzcsMTM3NTgxNDQ5OSwxMz
+eyJoaXN0b3J5IjpbLTIxMzI3MTkwNzEsMTM3NTgxNDQ5OSwxMz
 M4NTI5NzM5LDYxMDM4ODYyLC02NzQxMjQzNjBdfQ==
 -->
