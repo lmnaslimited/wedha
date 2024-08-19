@@ -19,10 +19,10 @@ enter image description here
 
 When you place an order (frontend action), the kitchen (backend) processes it and sends the food back to you.
 
-[![fhiAZ1.Screenshot-from-2024-08-19-15-15-56.png](https://i.im.ge/2024/08/19/fhiAZ1.Screenshot-from-2024-08-19-15-15-56.png)](https://im.ge/i/Screenshot-from-2024-08-19-15-15-56.fhiAZ1)
+<img src="https://i.im.ge/2024/08/19/fhiAZ1.Screenshot-from-2024-08-19-15-15-56.png" alt="Screenshot" style="width:25%;">
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIxNTUzOTksNzE2NTY0Nzg0LC0yMD
+eyJoaXN0b3J5IjpbLTE3NTI1MTI1MDYsNzE2NTY0Nzg0LC0yMD
 Y5NDk0NTQwLC05ODQxNzczODRdfQ==
 -->
