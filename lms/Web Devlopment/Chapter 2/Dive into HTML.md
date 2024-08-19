@@ -35,6 +35,10 @@ Get familiar with HTML forms and their elements, including `<form>`, `<input>`, 
 
 Discover how to create hyperlinks to navigate between multiple HTML pages.
 
+## **Lesson 8: HTML Entities**
+
+Use HTML entities for special characters such as `&nbsp;`, `&copy;`, `&amp;`, etc.
+
 ## **Assessment**
 **Create a Contact Form for Your Portfolio Page**
 Develop and integrate a contact form into your portfolio page.
@@ -46,6 +50,6 @@ Practice building and linking your web pages. Engage in hands-on practice and co
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYxNzA1MzIsMTM3NTgxNDQ5OSwxMz
-M4NTI5NzM5LDYxMDM4ODYyLC02NzQxMjQzNjBdfQ==
+eyJoaXN0b3J5IjpbLTk2NjQ5ODYxNywxMzc1ODE0NDk5LDEzMz
+g1Mjk3MzksNjEwMzg4NjIsLTY3NDEyNDM2MF19
 -->
