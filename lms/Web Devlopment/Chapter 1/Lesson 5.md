@@ -23,12 +23,9 @@
      - **Prettier** (for code formatting)
      - **Live Server** (for real-time preview)
 
-## **Moving Forward**
-
-Great job so far! Next up, we’ll dive into HTML and start building the structure of your website. Let’s get started!
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NzM5MzAwXX0=
+eyJoaXN0b3J5IjpbLTE2MDg2MTEzODJdfQ==
 -->
