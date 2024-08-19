@@ -17,7 +17,7 @@ HereYour paragraph here that describes the heading. This text introduces the top
 
 | | |  
 |---------------------------------|-------------|  
-|![Technology Concept Flat Vector Style Illustration Featuring Software Testing Design Elements]([https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg](https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg)) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |
+|![Technology Concept Flat Vector Style Illustration Featuring Software Testing Design Elements](https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |
 
 
 ## Points to remember  
@@ -25,5 +25,5 @@ HereYour paragraph here that describes the heading. This text introduces the top
 - **Point 2:** description for the points.  
 - **Point 3:** description for the points.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjE2NTI5N119
+eyJoaXN0b3J5IjpbLTExNzU5OTcyODBdfQ==
 -->
