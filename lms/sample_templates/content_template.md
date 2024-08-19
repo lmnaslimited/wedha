@@ -3,8 +3,6 @@
 
 Cypress is a popular open-source , end-to-end testing framework that simplifies and speeds up testing. It supports writing tests in JavaScript or TypeScript, eliminates the need for Selenium, and offers a comprehensive environment ideal for evaluating ERP products. Its flexibility and community-driven customization enhance its usability.
 
-# **Features**
-
 ### Cross-Browser Testing:
 
 Cypress supports multiple browsers, including Chrome, Firefox, and Edge, allowing you to test across different environments.
@@ -29,5 +27,5 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDgwMzM2NV19
+eyJoaXN0b3J5IjpbLTE3MTUwNTU5OTNdfQ==
 -->
