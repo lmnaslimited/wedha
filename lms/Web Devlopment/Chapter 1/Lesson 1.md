@@ -1,6 +1,6 @@
 # **Lesson 1: What is the Internet?**
 
-
+## **What is the Internet?**
 
 
 
@@ -35,6 +35,6 @@ The internet is connected globally through cables, satellites, and wireless tech
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTE0NzI2OSwtMTAyMjY1MzgzNiwzOT
+eyJoaXN0b3J5IjpbLTcxMDcyODA0OCwtMTAyMjY1MzgzNiwzOT
 A0ODkzNjksLTQ1ODkzODE2N119
 -->
