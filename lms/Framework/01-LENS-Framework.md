@@ -1,5 +1,7 @@
 # LENS Framework
+
 Welcome to **LENS!** A Beginner’s Guide
+
 ## Lesson Structure
 
 ### Lesson 1 : Introduction to LENS
@@ -30,5 +32,5 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMjcyNTE0LDU5MTMwOTUwNl19
+eyJoaXN0b3J5IjpbNTkxMzA5NTA2LDU5MTMwOTUwNl19
 -->
