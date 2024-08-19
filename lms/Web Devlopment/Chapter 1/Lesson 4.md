@@ -17,10 +17,9 @@ Building a webpage is like building a house:
 
 HTML sets up the structure, CSS adds style, and JavaScript makes it interactive!
 
-## **Moving Forward**
-Next, we'll set up your development environment and get you ready to start coding. Stay tuned!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQyNTMzNDddfQ==
+eyJoaXN0b3J5IjpbLTE5MzQ1NTgyNjQsLTExNzQyNTMzNDddfQ
+==
 -->
