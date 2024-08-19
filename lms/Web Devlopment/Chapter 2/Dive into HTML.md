@@ -35,8 +35,8 @@ Get familiar with HTML forms and their elements, including `<form>`, `<input>`, 
 
 Discover how to create hyperlinks to navigate between multiple HTML pages.
 
-## **Assessment: Create a Contact Form for Your Portfolio Page**
-
+## **Assessment**
+**Create a Contact Form for Your Portfolio Page**
 Develop and integrate a contact form into your portfolio page.
 
 ## **Moving Forward**
@@ -46,6 +46,6 @@ Practice building and linking your web pages. Engage in hands-on practice and co
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU4NjYyMDcsMTMzODUyOTczOSw2MT
-AzODg2MiwtNjc0MTI0MzYwXX0=
+eyJoaXN0b3J5IjpbMTM3NTgxNDQ5OSwxMzM4NTI5NzM5LDYxMD
+M4ODYyLC02NzQxMjQzNjBdfQ==
 -->
