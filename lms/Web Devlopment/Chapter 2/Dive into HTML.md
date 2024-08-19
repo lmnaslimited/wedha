@@ -6,17 +6,17 @@ In this chapter, we’ll cover the basics of HTML, which is essential for web de
 
 We'll start by defining HTML, understanding its purpose, and exploring its role in web development.
 
-## **Lesson 2: HTML Boilerplate**
-
-Understand the HTML boilerplate code and its significance in creating a well-structured document.
-
-## **Lesson 3: Basic Tags and Attributes**
+## **Lesson 2: Basic Tags and Attributes**
 
 Learn core HTML tags for structuring web pages, including headings, paragraphs, links, images, and lists. Discover how to use attributes like `id`, `class`, and `src` to modify these elements.
 
-## **Lesson 4: Block-Level vs. Inline Elements**
+## **Lesson 3: Block-Level vs. Inline Elements**
 
 Differentiate between block-level elements (e.g., `<div>`, `<h1>`) and inline elements (e.g., `<span>`, `<a>`), and understand their impact on layout.
+
+## **Lesson 4: HTML Boilerplate**
+
+Understand the HTML boilerplate code and its significance in creating a well-structured document.
 
 ## **Lesson 5: HTML Comments**
 
@@ -61,7 +61,7 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgxNjk0ODksLTE5NjE0MDM5ODIsMz
-I4ODk2NTUwLC0yMTMyNzE5MDcxLDEzNzU4MTQ0OTksMTMzODUy
-OTczOSw2MTAzODg2MiwtNjc0MTI0MzYwXX0=
+eyJoaXN0b3J5IjpbLTEzMDQ2MTc3NywtMTk2MTQwMzk4MiwzMj
+g4OTY1NTAsLTIxMzI3MTkwNzEsMTM3NTgxNDQ5OSwxMzM4NTI5
+NzM5LDYxMDM4ODYyLC02NzQxMjQzNjBdfQ==
 -->
