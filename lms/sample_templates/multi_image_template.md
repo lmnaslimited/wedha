@@ -1,17 +1,29 @@
 # Your Heading 
-HereYour paragraph here that describes the heading. This text introduces the topic covered in the section.| | |  
+HereYour paragraph here that describes the heading. This text introduces the topic covered in the section.
+
+| | |  
 |---------------------------------|-------------|  
-|![Technology Concept Flat Vector Style Illustration Featuring Software Testing Design Elements]([https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg](https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg)) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |<br>  
-<br>| | |  
+| ![Technology Concept Flat Vector Style Illustration Featuring Software Testing Design Elements]([https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg](https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg)) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |
+
+
+<br>  
+<br>
+
+| | |  
 |---------------------------------|-------------|  
 | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. | ![Technology Concept Flat Vector Style Illustration Featuring Software Testing Design Elements]([https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg](https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg)) |  
 <br>  
-<br>| | |  
+<br>
+
+| | |  
 |---------------------------------|-------------|  
-|![Technology Concept Flat Vector Style Illustration Featuring Software Testing Design Elements]([https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg](https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg)) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |## Points to remember  
+|![Technology Concept Flat Vector Style Illustration Featuring Software Testing Design Elements]([https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg](https://img.freepik.com/premium-vector/technology-concept-flat-vector-style-illustration-featuring-software-testing-design-elements_1226483-8155.jpg)) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |
+
+
+## Points to remember  
 - **Point 1:** description for the points.  
 - **Point 2:** description for the points.  
 - **Point 3:** description for the points.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4NDI0NDc1XX0=
+eyJoaXN0b3J5IjpbLTE4MTM0NzQwMzFdfQ==
 -->
