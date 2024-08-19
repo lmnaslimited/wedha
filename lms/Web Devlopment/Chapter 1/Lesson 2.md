@@ -22,11 +22,9 @@ Imagine the WWW as a giant library:
 
 When you request a web page, it’s like asking the librarian for a book using its catalog number (URL). The request travels through the library (the internet) to the book’s location (web server), and then the book (web page) is sent back to you!
 
-## **Moving Forward**
-Next, we’ll explore how frontend and backend development work together to build complete websites. Stay tuned!
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzQwMDcyOV19
+eyJoaXN0b3J5IjpbMjg5MjU0MTEyXX0=
 -->
