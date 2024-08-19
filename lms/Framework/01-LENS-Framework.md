@@ -8,11 +8,11 @@ Welcome to **LENS!** A Beginner’s Guide
 
 Get familiar with LENS architecture, core components, and basic concepts.
 
-### Lesson 2 : Creating and Managing DocTypes
+### Lesson 2 : Users, Roles and Permissions
 
-Learn how to create and manage custom DocTypes.
+Learn how to create and manage roles and their permissions.
 
-### Lesson 3 : Scripting and Customization
+### Lesson 3 : Understanding Do
 
 Use LENS scripting features to customize behavior and functionality.
 
@@ -32,5 +32,6 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMzA5NTA2LDU5MTMwOTUwNl19
+eyJoaXN0b3J5IjpbODM1ODIwMjcxLDU5MTMwOTUwNiw1OTEzMD
+k1MDZdfQ==
 -->
