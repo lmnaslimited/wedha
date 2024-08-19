@@ -1,14 +1,14 @@
 # **Lesson 1: What is the Internet?**
 
-## **What is the Internet?**
-The internet is a global network that connects millions of computers and devices, allowing them to communicate and share information. It functions like a vast web where data travels between users and servers.
+
+
 
 
 
 
 | | |  
 |---------------------------------|-------------|  
-| ![enter image description here](https://i.im.ge/2024/08/19/fhLhWm.inter.jpeg) | Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image.Your paragraph here on the right side of the image. This paragraph explains or provides additional details about the content shown in the image. |
+| ![enter image description here](https://i.im.ge/2024/08/19/fhLhWm.inter.jpeg) | The internet is a global network that connects millions of computers and devices, allowing them to communicate and share information. It functions like a vast web where data travels between users and servers. |
 
 
 <br>  
@@ -35,6 +35,6 @@ The internet is connected globally through cables, satellites, and wireless tech
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAzMjM3NDAsLTEwMjI2NTM4MzYsMz
-kwNDg5MzY5LC00NTg5MzgxNjddfQ==
+eyJoaXN0b3J5IjpbLTYwMTE0NzI2OSwtMTAyMjY1MzgzNiwzOT
+A0ODkzNjksLTQ1ODkzODE2N119
 -->
