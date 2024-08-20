@@ -7,20 +7,12 @@ HTML (HyperText Markup Language) is the standard language used to create and des
 
 ### Example
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+```html 
+<!DOCTYPE html> <html> <head> <title>Page Title</title> </head> <body> <h1>My First Heading</h1> <p>My first paragraph.</p> </body> </html>
+``
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
 
-</body>
-</html>``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkwNzU3NywtNDc1ODU0ODFdfQ==
+eyJoaXN0b3J5IjpbODk5OTI5MTYxLC00NzU4NTQ4MV19
 -->
