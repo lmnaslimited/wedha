@@ -22,12 +22,12 @@ So, just like sending and receiving letters, the internet sends and receives inf
 The internet is connected globally through cables, satellites, and wireless technologies. These connections link networks and devices worldwide, enabling seamless communication and information sharing.
 
 **Check out this fun video!** where a shark takes a bite out of the undersea cables that connect the internet around the world! 🦈
-
-<d
+<br>
+<div align="center">
 <iframe width="700" height="315" src="https://www.youtube.com/embed/1ex7uTQf4bQ" frameborder="0" allowfullscreen></iframe>
-
+</div>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE3MTUzODYsLTg2ODEyNDc4Ml19
+eyJoaXN0b3J5IjpbLTc2OTM5NTQyMiwtODY4MTI0NzgyXX0=
 -->
