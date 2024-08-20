@@ -1,71 +1,184 @@
-**Practice 1**
+### Hands-On Task: Setting Up Traefik with Docker
 
-**Objective:** Learn how to navigate to a webpage using Cypress.
+  
 
-**Steps:**
+**Objective:** In this task, you'll set up Traefik as a reverse proxy to manage traffic for a simple web application using Docker. You'll create a Traefik configuration and deploy it alongside an Nginx web server.
 
-1.  Open your Cypress test file.
-    
-2.  Use the **cy.visit()** command to navigate to a test webpage.
-    
-3.  Verify that the page has loaded by asserting the page title or content.
-    
+  
 
-```javascript
-describe('Visit Webpage Practice', () => {
-  it('should visit the example webpage', () => {
-    cy.visit('https://example.com');
-    cy.title().should('include', 'Example Domain');
-  });
-});
+**Pre-Requisites:**
 
-```
+- Docker and Docker Compose installed on your system.
 
-**Expected Outcome:**
-
--   The test should open the specified website.
-
-**Practice 2**
-
-**Objective:** Write a basic test to open a YouTube video and check for specific elements.
+  
 
 **Steps:**
 
-1.  Create a new test file in the **cypress/e2e** directory:
-    
-    ```javascript
-    touch cypress/e2e/youtube.spec.js
-    
-    ```
-    
-2.  Open **youtube.spec.js** in your code editor and add the following code:
-    
+  
 
-```javascript
-describe('YouTube Video Test', () => { it('should open a YouTube video and verify elements', () => { 
+**1. Create a Docker Network**
 
-// Visit a YouTube video page
-cy.visit('https://www.youtube.com/watch?v=dQw4w9WgXcQ'); 
+  
 
-// Verify the page contains the video player 
-cy.get('video').should('be.visible'); 
+First, create a Docker network that Traefik will use to communicate with other containers:
 
-// Verify the video title is present 
-cy.get('h1.title').should('be.visible'); 
+  
 
-// Verify the subscribe button is present 
-cy.get('ytd-subscribe-button-renderer').should('be.visible'); }); });
+```bash
 
+docker network create web
 
 ```
 
--   This script visits a specific YouTube video page and checks for the presence of the video player, the video title, and the subscribe button.
+  
 
-**Hints:**
+**2. Set Up Project Directory**
 
--   Use `cy.visit()` to navigate to a URL.
--   Use `cy.get()` to select DOM elements and perform assertions on them.
+  
 
-**Expected Outcome:**
+Create a directory for your Traefik setup and navigate into it:
 
--   The test should open the specified YouTube video page, check for the video player’s presence, verify the video title, and ensure the subscribe button is visible.
+  
+
+```bash
+
+mkdir traefik-setup
+
+cd traefik-setup
+
+```
+
+  
+
+**3. Create `docker-compose.yml` File**
+
+  
+
+Create a file named `docker-compose.yml` in the `traefik-setup` directory and add the following content:
+
+  
+
+```yaml
+
+version: '3.8'
+
+services:
+
+traefik:
+
+image: traefik:v2.5
+
+command:
+
+- "--api.insecure=true" # Enable Traefik Dashboard (not for production use)
+
+- "--providers.docker=true" # Enable Docker provider
+
+- "--entrypoints.web.address=:80" # Define entrypoint for HTTP
+
+- "--entrypoints.websecure.address=:443" # Define entrypoint for HTTPS
+
+- "--certificatesresolvers.http.acme.tlschallenge=true" # Enable HTTP-01 challenge for ACME
+
+- "--certificatesresolvers.http.acme.email=your-email@example.com" # Your email for ACME
+
+- "--certificatesresolvers.http.acme.storage=/letsencrypt/acme.json" # Storage for certificates
+
+ports:
+
+- "80:80" # HTTP
+
+- "443:443" # HTTPS
+
+volumes:
+
+- "/var/run/docker.sock:/var/run/docker.sock" # Docker socket for service discovery
+
+- "./letsencrypt:/letsencrypt" # Volume for storing certificates
+
+networks:
+
+- web
+
+web:
+
+image: nginx:alpine
+
+labels:
+
+- "traefik.enable=true"
+
+- "traefik.http.routers.web.rule=Host(`example.com`)" # Replace with your domain
+
+- "traefik.http.services.web.loadbalancer.server.port=80"
+
+networks:
+
+- web
+
+networks:
+
+web:
+
+external: true
+
+```
+
+  
+
+**Note:** Replace `example.com` with a valid domain or use `localhost` for local testing.
+
+  
+
+**4. Start Traefik and the Web Application**
+
+  
+
+Run the following command to start Traefik and the web service in detached mode:
+
+  
+
+```bash
+
+docker-compose up -d
+
+```
+
+  
+
+**5. Verify the Setup**
+
+  
+
+- **Access the Traefik Dashboard:**
+
+Open your web browser and navigate to `http://localhost:8080` to view the Traefik dashboard. You should see Traefik’s interface where you can monitor and manage your services.
+
+  
+
+- **Access Your Web Application:**
+
+Open your web browser and go to `http://example.com` (or `http://localhost` if using a local domain). You should see the default Nginx page if everything is set up correctly.
+
+  
+
+**Optional: Clean Up**
+
+  
+
+If you want to stop and remove the containers, networks, and volumes created by this setup, use:
+
+  
+
+```bash
+
+docker-compose down
+
+```
+
+  
+
+This task will help you get hands-on experience with Traefik's configuration and its integration with Docker.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjUyOTQzNTU1XX0=
+-->
