@@ -44,8 +44,8 @@ The HTML element is everything from the start tag to the end tag.
 <p>My first paragraph.</p>
 ```
 
-
+#### HTML Element Breakdown
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTI4MjMxNiwtMzM3NTExODk4LC0xMz
+eyJoaXN0b3J5IjpbMTYzMzA4Mzc2OCwtMzM3NTExODk4LC0xMz
 E2MTcxNzA0LC00NzU4NTQ4MV19
 -->
