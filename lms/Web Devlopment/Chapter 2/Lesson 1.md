@@ -30,9 +30,23 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 - `<h1>`: Defines a large heading.
 - `<p>`: Defines a paragraph.
 
+### What is an HTML Element?
+
+An HTML element is composed of:
+
+- **Start tag**: `<tagname>`
+- **Content**: The text or other elements inside the tags.
+- **End tag**: `</tagname>`
+
+#### Example:
+
+```html
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTcxOTUsLTQ3NTg1NDgxXX0=
+eyJoaXN0b3J5IjpbMzgyNzE1ODksLTQ3NTg1NDgxXX0=
 -->
