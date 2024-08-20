@@ -1,10 +1,10 @@
-# Lesson 1: Introduction to HTML
+# **Lesson 1: Introduction to HTML**
 
-## What is HTML?
+## **What is HTML?**
 
 HTML **(HyperText Markup Language)** is the standard language used to create and design web pages. It provides the basic structure of a website, which can be enhanced with CSS for styling and JavaScript for interactivity.
 
-## A Simple HTML Document
+## **A Simple HTML Document
 
 ### Example
 
@@ -39,6 +39,6 @@ The HTML element is everything from the start tag to the end tag.
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4ODcwMzk2LC0zMzc1MTE4OTgsLTEzMT
-YxNzE3MDQsLTQ3NTg1NDgxXX0=
+eyJoaXN0b3J5IjpbMTM1MzU4OTI0NCwtMzM3NTExODk4LC0xMz
+E2MTcxNzA0LC00NzU4NTQ4MV19
 -->
