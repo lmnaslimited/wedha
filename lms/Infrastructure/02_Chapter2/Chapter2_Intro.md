@@ -18,11 +18,11 @@ We are going to Install Node.js, navigate to your project directory, run the cyp
 
 Get ready to uncover how these commands can streamline your testing process and enhance your productivity.
 
-### Lesson 4 : Quiz on Cypress Commands
+### Lesson 4 : Quiz on Portainer
 
 This lesson includes practical tasks to reinforce your learning and a quiz to ensure you grasp the essential concepts. Let’s get started and see how much you’ve mastered!
 
-### Lesson 5 : Hand on Practices on Cypress
+### Lesson 5 : Hand on Practices on Portainer
 
 We’ll focus on how to navigate to a specific website using Cypress and explore the essential commands involved. This is a fundamental aspect of writing end-to-end tests.
 
@@ -34,5 +34,5 @@ We’ll focus on how to navigate to a specific website using Cypress and explore
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTQ5MTEyNCwtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbLTIxMjQ5Mjg4MjYsLTU5ODg3NTAzMl19
 -->
