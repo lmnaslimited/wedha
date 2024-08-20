@@ -32,10 +32,11 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 
 ### What is an HTML Element?
 
-An HTML element consists of a start tag, content, and an end tag:
+The HTML **element** is everything from the start tag to the end tag.
 
 ```html
-<tagname> Content goes here... </tagname>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 ```
 
 
@@ -45,5 +46,5 @@ An HTML element consists of a start tag, content, and an end tag:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjc2OTI0LC00NzU4NTQ4MV19
+eyJoaXN0b3J5IjpbNzA4ODUyMTQ1LC00NzU4NTQ4MV19
 -->
