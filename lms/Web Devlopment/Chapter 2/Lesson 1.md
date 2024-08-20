@@ -61,7 +61,16 @@ Elements Some HTML elements do not have content and are called empty elements. T
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 
+## Test Yourself With Exercises
+
+**Exercise:**  
+Insert the correct end tag for the HTML heading.
+
+```html
+<h1>This is a heading ___
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTM2MjUxOCwtMzM3NTExODk4LC0xMz
-E2MTcxNzA0LC00NzU4NTQ4MV19
+eyJoaXN0b3J5IjpbMjc5NjM4NjE2LC02NzEzNjI1MTgsLTMzNz
+UxMTg5OCwtMTMxNjE3MTcwNCwtNDc1ODU0ODFdfQ==
 -->
