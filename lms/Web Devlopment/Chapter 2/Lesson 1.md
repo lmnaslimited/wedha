@@ -4,7 +4,7 @@
 
 HTML **(HyperText Markup Language)** is the standard language used to create and design web pages. It provides the basic structure of a website, which can be enhanced with CSS for styling and JavaScript for interactivity.
 
-## **A Simple HTML Document
+## **A Simple HTML Document**
 
 ### Example
 
@@ -30,15 +30,22 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 -   `<h1>`: Defines a large heading.
 -   `<p>`: Defines a paragraph.
 
-## What is an HTML Element?
+## **What is an HTML Element?**
 
 The HTML element is everything from the start tag to the end tag.
 
 ```html
 <tagname>Content goes here...</tagname>
 ```
+### Examples of Some HTML Elements
+
+```html
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzU4OTI0NCwtMzM3NTExODk4LC0xMz
+eyJoaXN0b3J5IjpbLTM0NTI4MjMxNiwtMzM3NTExODk4LC0xMz
 E2MTcxNzA0LC00NzU4NTQ4MV19
 -->
