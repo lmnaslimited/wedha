@@ -12,9 +12,9 @@ Get familiar with LENS architecture, core components, and basic concepts.
 
 Learn how to create and manage roles and their permissions.
 
-### Lesson 3 : What is Doc
+### Lesson 3 : What is DocType
 
-Use LENS scripting features to customize behavior and functionality.
+Learn about creating a new DocType and customizing an existing one.
 
 ### Lesson 4 : Test Your Knowledge
 
@@ -32,6 +32,6 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQwNzczMjgsNTkxMzA5NTA2LDU5MT
-MwOTUwNl19
+eyJoaXN0b3J5IjpbMTI1NTc4NTQ2Myw1OTEzMDk1MDYsNTkxMz
+A5NTA2XX0=
 -->
