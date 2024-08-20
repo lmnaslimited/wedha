@@ -60,11 +60,17 @@ Some HTML elements do not have content and are called empty elements. They do no
 <br>
 ```
 
+### Remember:
+
+- **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
+
+- **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzUxMTg5OCwtMTMxNjE3MTcwNCwtND
-c1ODU0ODFdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTA1NzQzNCwtMzM3NTExODk4LC0xMz
+E2MTcxNzA0LC00NzU4NTQ4MV19
 -->
