@@ -1,12 +1,12 @@
 
 
-# Introduction to Cypress
+# **Managing Docker with Portainer**
 
-Welcome to **Cypress!** In this lesson, we will explore the foundational concepts of Cypress.
+Welcome to **P** In this lesson, we will explore the foundational concepts of Cypress.
 
 ## Lesson Structure
 
-### Lesson 1 : Introduction to Cypress
+### Lesson 1 : **Introduction to Portainer**
 
 We are going to explore Cypress, a powerful tool for automated testing. We will cover what Cypress is, delve into its key features.
 
@@ -34,5 +34,5 @@ We’ll focus on how to navigate to a specific website using Cypress and explore
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDkyNTIxNiwtNTk4ODc1MDMyXX0=
+eyJoaXN0b3J5IjpbMjY1NDAyMTgzLC01OTg4NzUwMzJdfQ==
 -->
