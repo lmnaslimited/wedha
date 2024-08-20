@@ -6,7 +6,7 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 
 ## **A Simple HTML Document**
 
-### Example
+**Example**
 
 ```html
 <!DOCTYPE html>
@@ -37,14 +37,12 @@ The HTML element is everything from the start tag to the end tag.
 ```html
 <tagname>Content goes here...</tagname>
 ```
-### Examples of Some HTML Elements
+**Examples of Some HTML Elements** 
 
 ```html
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 ```
-
-#### HTML Element Breakdown
 
 -   **Start tag**: `<h1>`
 -   **Content**: `My First Heading`
@@ -53,12 +51,12 @@ The HTML element is everything from the start tag to the end tag.
 ## Empty 
 Elements Some HTML elements do not have content and are called empty elements. They do not have an end tag. 
 
-### Example of an empty element:
+**Example of an empty element:** 
 ```html
  <br>
  ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTE4NjgyMCwtMzM3NTExODk4LC0xMz
+eyJoaXN0b3J5IjpbLTU5NjAyODc3MSwtMzM3NTExODk4LC0xMz
 E2MTcxNzA0LC00NzU4NTQ4MV19
 -->
