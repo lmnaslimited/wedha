@@ -3,8 +3,9 @@
 ## **What is the Internet?**
 The internet is a global network that connects millions of computers and devices, allowing them to communicate and share information. It functions like a vast web where data travels between users and servers.
 
-[![fiTspF.inter.jpeg width="300" height="250"](https://i.im.ge/2024/08/20/fiTspF.inter.jpeg) ](https://im.ge/i/inter.fiTspF) 
-
+<div align="center">
+    <img src="https://img.freepik.com/premium-vector/circle-different-devices-globe-with-hand-pointing-screen_1226483-4195.jpg" alt="a circle of different devices and a globe with a hand pointing at the screen" width="300" height="250">
+</div>
 
 ## **Why Do We Need to Know About the Internet?**
 Understanding the internet is essential for building websites. Just as a chef must know how to use a stove, understanding how the internet works helps your websites run smoothly and effectively.
@@ -22,10 +23,11 @@ The internet is connected globally through cables, satellites, and wireless tech
 
 **Check out this fun video!** where a shark takes a bite out of the undersea cables that connect the internet around the world! 🦈
 
+<d
 <iframe width="700" height="315" src="https://www.youtube.com/embed/1ex7uTQf4bQ" frameborder="0" allowfullscreen></iframe>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTQxOTk2OSwtODY4MTI0NzgyXX0=
+eyJoaXN0b3J5IjpbLTIxMjE3MTUzODYsLTg2ODEyNDc4Ml19
 -->
