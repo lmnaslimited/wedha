@@ -1,7 +1,7 @@
 # **Chapter 2: Let’s Dive into HTML**
 
 In this chapter, we’ll cover the basics of HTML, which is essential for web development. We’ll start with fundamental concepts and gradually move on to more advanced HTML elements.
-
+[![fiTicM.Screenshot-from-2024-08-20-11-40-49.png](https://i.im.ge/2024/08/20/fiTicM.Screenshot-from-2024-08-20-11-40-49.png)](https://im.ge/i/Screenshot-from-2024-08-20-11-40-49.fiTicM)
 ## **Lesson 1: Introduction to HTML**
 
 We'll start by defining HTML, understanding its purpose, and exploring its role in web development.
@@ -61,5 +61,5 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ2MTc3N119
+eyJoaXN0b3J5IjpbMTMwNjkwMjQyNiwtMTMwNDYxNzc3XX0=
 -->
