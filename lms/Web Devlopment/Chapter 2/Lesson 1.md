@@ -45,11 +45,20 @@ The HTML **element** is everything from the start tag to the end tag.
 - **Content**: `My First Heading`
 - **End tag**: `</h1>`
 
+### Empty Elements
+
+Some HTML elements do not have content and are called empty elements. They do not have an end tag.
+
+**Example of an empty element:**
+
+```html
+<br>
+```
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE1NzQwMCwtNDc1ODU0ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzMTYxNzE3MDQsLTQ3NTg1NDgxXX0=
 -->
