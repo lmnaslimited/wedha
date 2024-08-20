@@ -26,6 +26,8 @@ Learn how to set up your development environment, including Visual Studio Code a
 
 Thank you for joining us! 🚀 Let’s build amazing things together!
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNzUxMDE0LDg5MTY5MDAwNV19
+eyJoaXN0b3J5IjpbODY2MDcxMTI0LDUxMjc1MTAxNCw4OTE2OT
+AwMDVdfQ==
 -->
