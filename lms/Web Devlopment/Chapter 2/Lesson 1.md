@@ -39,6 +39,11 @@ The HTML **element** is everything from the start tag to the end tag.
 <p>My first paragraph.</p>
 ```
 
+### HTML Element Breakdown
+
+- **Start tag**: `<h1>`
+- **Content**: `My First Heading`
+- **End tag**: `</h1>`
 
 
 
@@ -46,5 +51,5 @@ The HTML **element** is everything from the start tag to the end tag.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4ODUyMTQ1LC00NzU4NTQ4MV19
+eyJoaXN0b3J5IjpbLTE0MTE1NzQwMCwtNDc1ODU0ODFdfQ==
 -->
