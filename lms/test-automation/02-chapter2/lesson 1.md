@@ -16,7 +16,7 @@ We are going to Install Node.js, navigate to your project directory, run the cyp
 
 Get ready to uncover how these commands can streamline your testing process and enhance your productivity.
 
-### Lesson 4 : Hand on Practices on Cypress
+### Lesson 4 : Hand on Practices
 
 We’ll focus on how to navigate to a specific website using Cypress and explore the essential commands involved. This is a fundamental aspect of writing end-to-end tests.
 
@@ -36,5 +36,5 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI0NDEzODJdfQ==
+eyJoaXN0b3J5IjpbLTg1NTI3NzQyLC0xOTEyNDQxMzgyXX0=
 -->
