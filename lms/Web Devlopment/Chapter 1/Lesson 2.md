@@ -22,9 +22,11 @@ Imagine the WWW as a giant library:
 
 When you request a web page, it’s like asking the librarian for a book using its catalog number (URL). The request travels through the library (the internet) to the book’s location (web server), and then the book (web page) is sent back to you!
 
+[![fiT2GS.Screenshot-from-2024-08-20-11-27-20.png](https://i.im.ge/2024/08/20/fiT2GS.Screenshot-from-2024-08-20-11-27-20.png)](https://im.ge/i/Screenshot-from-2024-08-20-11-27-20.fiT2GS)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MjU0MTEyXX0=
+eyJoaXN0b3J5IjpbLTY5NTk4NjI2MCwyODkyNTQxMTJdfQ==
 -->
