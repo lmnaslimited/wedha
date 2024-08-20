@@ -48,7 +48,7 @@ The HTML element is everything from the start tag to the end tag.
 -   **Content**: `My First Heading`
 -   **End tag**: `</h1>`
 
-## Empty 
+## **Empty Element**
 Elements Some HTML elements do not have content and are called empty elements. They do not have an end tag. 
 
 **Example of an empty element:** 
@@ -56,7 +56,12 @@ Elements Some HTML elements do not have content and are called empty elements. T
  <br>
  ```
 
+## **Remember:**
+
+-   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
+-   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjAyODc3MSwtMzM3NTExODk4LC0xMz
-E2MTcxNzA0LC00NzU4NTQ4MV19
+eyJoaXN0b3J5IjpbLTE4MTUxODQ0MjQsLTMzNzUxMTg5OCwtMT
+MxNjE3MTcwNCwtNDc1ODU0ODFdfQ==
 -->
