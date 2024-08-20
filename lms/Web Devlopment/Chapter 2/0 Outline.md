@@ -2,7 +2,7 @@
 
 In this chapter, we’ll cover the basics of HTML, which is essential for web development. We’ll start with fundamental concepts and gradually move on to more advanced HTML elements.
 
-[![fiTNwp.Screenshot-from-2024-08-20-11-46-12.png](https://i.im.ge/2024/08/20/fiTNwp.Screenshot-from-2024-08-20-11-46-12.png)](https://im.ge/i/Screenshot-from-2024-08-20-11-46-12.fiTNwp)
+[![fiTPKP.Screenshot-from-2024-08-20-11-47-17.png](https://i.im.ge/2024/08/20/fiTPKP.Screenshot-from-2024-08-20-11-47-17.png)](https://im.ge/i/Screenshot-from-2024-08-20-11-47-17.fiTPKP)
 
 ## **Lesson 1: Introduction to HTML**
 
@@ -63,6 +63,6 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDUzMzkyMCwxMzA2OTAyNDI2LC0xMz
-A0NjE3NzddfQ==
+eyJoaXN0b3J5IjpbNTI0MDcxMDk0LDEzMDY5MDI0MjYsLTEzMD
+Q2MTc3N119
 -->
