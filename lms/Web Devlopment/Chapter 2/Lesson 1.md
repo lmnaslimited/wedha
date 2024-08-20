@@ -34,6 +34,9 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 
 The HTML **element** is everything from the start tag to the end tag.
 
+```html 
+<tagname>Content goes here...</tagname>
+```
 ```html
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
@@ -60,5 +63,6 @@ Some HTML elements do not have content and are called empty elements. They do no
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYxNzE3MDQsLTQ3NTg1NDgxXX0=
+eyJoaXN0b3J5IjpbMTg3NzIzMzksLTEzMTYxNzE3MDQsLTQ3NT
+g1NDgxXX0=
 -->
