@@ -2,7 +2,7 @@
 
 # **Managing Docker with Portainer**
 
-Welcome to **P** In this lesson, we will explore the foundational concepts of Cypress.
+Welcome to **Portainer** In this lesson, we will explore the foundational concepts of portainer.
 
 ## Lesson Structure
 
@@ -10,7 +10,7 @@ Welcome to **P** In this lesson, we will explore the foundational concepts of Cy
 
 We are going to explore Cypress, a powerful tool for automated testing. We will cover what Cypress is, delve into its key features.
 
-### Lesson 2 : Cypress Installation Setup
+### Lesson 2 : **Installing and Configuring Portainer**
 
 We are going to Install Node.js, navigate to your project directory, run the cypress commands to install the testing tool.
 
@@ -34,5 +34,5 @@ We’ll focus on how to navigate to a specific website using Cypress and explore
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1NDAyMTgzLC01OTg4NzUwMzJdfQ==
+eyJoaXN0b3J5IjpbLTExMzYxMzQ4NSwtNTk4ODc1MDMyXX0=
 -->
