@@ -6,7 +6,7 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 
 ## **A Simple HTML Document**
 
-**Example**
+### **Example**
 
 ```html
 <!DOCTYPE html>
@@ -33,7 +33,7 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 
 ## Test Yourself With Exercises
 
-**Exercise:**  
+### **Exercise:**  
 Insert the correct end tag for the HTML heading.
 
 ```html
@@ -41,7 +41,7 @@ Insert the correct end tag for the HTML heading.
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMjEyNjQyLDI3OTYzODYxNiwtNjcxMz
-YyNTE4LC0zMzc1MTE4OTgsLTEzMTYxNzE3MDQsLTQ3NTg1NDgx
-XX0=
+eyJoaXN0b3J5IjpbLTM0NDAxNTY0MCwyMzIyMTI2NDIsMjc5Nj
+M4NjE2LC02NzEzNjI1MTgsLTMzNzUxMTg5OCwtMTMxNjE3MTcw
+NCwtNDc1ODU0ODFdfQ==
 -->
