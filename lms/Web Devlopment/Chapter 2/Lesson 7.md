@@ -4,7 +4,7 @@
 
 HTML tables are used to display data in a grid format, with rows and columns. They are ideal for organizing and presenting tabular data on a webpage.
 
-### **Basic Table Structure**
+## **Basic Table Structure**
 
 **Creating a Table:**
 ```html
@@ -24,12 +24,37 @@ HTML tables are used to display data in a grid format, with rows and columns. Th
 </table>
 ```
 
-## 3**Table Elements**
+## **Table Elements**
 
 -   **`<table>`**: Defines the table itself.
 -   **`<tr>`**: Defines a table row.
 -   **`<th>`**: Defines a table header cell.
 -   **`<td>`**: Defines a table data cell.
+
+## **Main Attributes**
+
+-   **`colspan`**: Specifies the number of columns a cell should span.
+-   **`rowspan`**: Specifies the number of rows a cell should span.
+-   **`border`**: Defines the width of the table border.
+
+**Example with Attributes:**
+```html
+<table border="1">
+    <tr>
+        <th colspan="2">Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td rowspan="2">Data 1</td>
+        <td>Data 2</td>
+        <td>Data 3</td>
+    </tr>
+    <tr>
+        <td>Data 4</td>
+        <td>Data 5</td>
+    </tr>
+</table>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMDk0OTM5XX0=
+eyJoaXN0b3J5IjpbMjM4ODA2MDM4XX0=
 -->
