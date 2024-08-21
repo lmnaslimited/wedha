@@ -7,7 +7,7 @@ The HTML element is everything from the start tag to the end tag.
 <tagname>Content goes here...</tagname>
 ```
 
-### **Examples of Some HTML Elements** 
+**Examples of Some HTML Elements** 
 ```html
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
@@ -54,14 +54,14 @@ Inline elements only occupy as much width as necessary and do not start on a new
 **Here are the inline elements in HTML:**
  `<a>` `<abbr>` `<acronym>` `<b>` `<bdo>` `<big>` `<br>` `<button>` `<cite>` `<code>` `<dfn>` `<em>` `<i>` `<img>` `<input>` `<kbd>` `<label>` `<map>` `<object>` `<output>` `<q>` `<samp>` `<script>` `<select>` `<small>` `<span>` `<strong>` `<sub>` `<sup>` `<textarea>` `<time>` `<tt>` `<var>`
 
-## **Remember**
+### **Remember**
 
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 
-## **Explore Further:**
+### **Explore Further:**
 To deepen your understanding of HTML elements, take some time to search for each of the mentioned elements and their usage. Check the official HTML documentation and experiment with these elements in your projects. Happy coding!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NDM1OTEzLC0xOTM0NDQ4NTYxLC0xNz
+eyJoaXN0b3J5IjpbOTEzMzMyMzQyLC0xOTM0NDQ4NTYxLC0xNz
 U5NjU1OTc0XX0=
 -->
