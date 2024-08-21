@@ -36,7 +36,8 @@ Block-level elements occupy the full width available and start on a new line. Th
 - **`<div>`**: Defines a division or section of content. 
 - **`<p>`**: Represents a paragraph of text.
 
-`<address>`  `<article>`  `<aside>`  `<blockquote>`  `<canvas>`  `<dd>`   `<div>`   `<dl>`  `<dt>`  `<fieldset>`  `<figcaption>`   `<figure>`   `<footer>`   `<form>`   `<h1>` to `<h6>`  `<header>`   `<hr>`  `<li>`   `<main>`  `<nav>` `<noscript>`   `<ol>`  `<p>`   `<pre>`   `<section>`  `<table>` `<tfoot>`   `<ul>` - `<video>`
+**Here are the block-level elements in HTML:**
+`<address>`  `<article>`  `<aside>`  `<blockquote>`  `<canvas>`  `<dd>`   `<div>`   `<dl>`  `<dt>`  `<fieldset>`  `<figcaption>`   `<figure>`   `<footer>`   `<form>`   `<h1>` to `<h6>`  `<header>`   `<hr>`  `<li>`   `<main>`  `<nav>` `<noscript>`   `<ol>`  `<p>`   `<pre>`   `<section>`  `<table>` `<tfoot>`   `<ul>`  `<video>`
 
 ### **Inline Elements**
 Inline elements only occupy as much width as necessary and do not start on a new line. They are used to style small portions of content within block-level elements.
@@ -50,5 +51,5 @@ Inline elements only occupy as much width as necessary and do not start on a new
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzk1MTU1NiwtMTc1OTY1NTk3NF19
+eyJoaXN0b3J5IjpbLTgyMTQ2MjAzMSwtMTc1OTY1NTk3NF19
 -->
