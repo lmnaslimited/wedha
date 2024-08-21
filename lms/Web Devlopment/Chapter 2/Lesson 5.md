@@ -20,7 +20,7 @@ HTML boilerplate is a basic structure that serves as the foundation for creating
 </html>
 ```
 
-## **Components of the Boilerplate**
+### **Components of the Boilerplate**
 
 1.  **`<!DOCTYPE html>`**: Declares the document type and version of HTML.
 2.  **`<html lang="en">`**: The root element of the document, with a language attribute.
@@ -47,5 +47,5 @@ To quickly add the HTML boilerplate code in Visual Studio Code, use the followin
 
 This will automatically generate the basic HTML boilerplate code for you, speeding up your workflow.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDk4MzE5OF19
+eyJoaXN0b3J5IjpbLTEzNDM5NjEzODVdfQ==
 -->
