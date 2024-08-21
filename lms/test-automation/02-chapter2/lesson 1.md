@@ -18,9 +18,10 @@ In this lesson, we'll dive into the powerful assertions you can use with `should
 
 ### Lesson 4 :Common assertions used with `except()`
 
+In this lesson, we will explore how to use the `expect()` function in Cypress for writing custom and complex assertions.
 
 
-### Lesson 5 : Quiz on Cypress Commands
+### Lesson 5 : Hands on Practice
 
 This lesson includes practical tasks to reinforce your learning and a quiz to ensure you grasp the essential concepts. Let’s get started and see how much you’ve mastered!
 
@@ -36,7 +37,7 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDExMDE0Niw5NjgzNjY5OTMsLTEwMT
+eyJoaXN0b3J5IjpbLTIyNTMxNTg2MCw5NjgzNjY5OTMsLTEwMT
 EzNDg1MDksLTExMzk0MDc1NjUsLTE5NjYyOTY4NywtODU1Mjc3
 NDIsLTE5MTI0NDEzODJdfQ==
 -->
