@@ -20,13 +20,6 @@ Differentiate between block-level elements (e.g., `<div>`, `<h1>`) and inline el
 
 Understand the HTML boilerplate code and its significance in creating a well-structured document.
 
-## **Lesson 5: HTML Comments**
-
-Learn how to add comments in HTML (`<!-- Comment -->`) to document the code and improve readability.
-
-## **Lesson 6: Browser Developer Tools**
-
-Explore browser developer tools to inspect, modify, and debug HTML on your web pages.
 
 ## **Lesson 7: HTML Tables**
 
@@ -63,6 +56,6 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNDIwMjQsMTMwNjkwMjQyNiwtMTMwND
-YxNzc3XX0=
+eyJoaXN0b3J5IjpbMTg1ODAxMjUxMSw1MzI0MjAyNCwxMzA2OT
+AyNDI2LC0xMzA0NjE3NzddfQ==
 -->
