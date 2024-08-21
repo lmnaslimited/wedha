@@ -1,4 +1,4 @@
-# LENS Framework
+# **LENS Framework
 
 Welcome to **LENS!** A Beginner’s Guide
 
@@ -32,6 +32,6 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTc4NTQ2Myw1OTEzMDk1MDYsNTkxMz
-A5NTA2XX0=
+eyJoaXN0b3J5IjpbLTE1OTQwNTAxODUsMTI1NTc4NTQ2Myw1OT
+EzMDk1MDYsNTkxMzA5NTA2XX0=
 -->
