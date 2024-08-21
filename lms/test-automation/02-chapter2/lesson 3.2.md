@@ -1,31 +1,85 @@
 ## **Common assertions used with `except()`** :
 
-1. **should('exist')** -  Asserts that an element exists in the DOM.
+The `expect()` function in Cypress is used for making assertions in a more flexible and expressive way, allowing for custom or complex conditions. Here are some examples of assertions using `expect()`:
 
- 
-	```javascript
-	cy.get('.navbar').should('exist')  
-	// Asserts that the element with class "navbar" exists in the DOM 
-	```
- 2. **should('be.visible')** - Asserts that an element is visible on the page.
-
-	```javascript
-	cy.get('.welcome-message').should('be.visible') 
-    // Asserts that the element with class "welcome-message" is visible
-	```
+1.  **Check if an Element Has a Specific Class**
     
- 3. **should('have.text')** -  Asserts that an element contains the exact specified text.   
-	```javascript
-	cy.get('.login-button').should('have.text', 'Log In')   
-	//Asserts that the button has the exact text "Log In"
-	```
-4. **should('have.value', value)**- Asserts that an input or textarea element has a specific value.
-	```javascript
-	cy.get('input[name="username"]').should('have.value', 'user123')  
-	// Asserts that the input has the value "user123" 
-	```
-
-
+    javascript
+     cy.get('.header').then($header => {
+      expect($header).to.have.class('active')  // Asserts that the element has the class "active"
+    })` 
+    
+2.  **Verify the Text Content of an Element**
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.message').then($message => {
+      expect($message).to.contain.text('Success')  // Asserts that the element contains the text "Success"
+    })` 
+    
+3.  **Assert an Element's Attribute Value**
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('input[name="email"]').then($input => {
+      expect($input).to.have.attr('placeholder', 'Enter your email')  // Asserts that the input has the placeholder "Enter your email"
+    })` 
+    
+4.  **Check if an Element is Visible**
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.nav-menu').then($menu => {
+      expect($menu).to.be.visible  // Asserts that the navigation menu is visible
+    })` 
+    
+5.  **Verify the Length of a List of Elements**
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.list-item').then($items => {
+      expect($items).to.have.length(5)  // Asserts that there are exactly 5 elements with the class "list-item"
+    })` 
+    
+6.  **Ensure an Input Field is Enabled**
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('button[type="submit"]').then($button => {
+      expect($button).to.be.enabled  // Asserts that the submit button is enabled
+    })` 
+    
+7.  **Check if a Checkbox is Checked**
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('input[type="checkbox"]').then($checkbox => {
+      expect($checkbox).to.be.checked  // Asserts that the checkbox is checked
+    })` 
+    
+8.  **Assert Multiple Conditions on an Element**
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.alert').then($alert => {
+      expect($alert).to.exist  // Asserts that the alert exists
+      expect($alert).to.have.attr('role', 'alert')  // Asserts that the alert has the attribute "role" set to "alert"
+      expect($alert).to.contain.text('Error')  // Asserts that the alert contains the text "Error"
+    })`
 ## **Common assertions used with `assert()`** :
 
 The `and()` function in Cypress is used to chain multiple assertions on the same subject. It allows you to perform additional checks or validations in a more readable and concise manner.
@@ -79,5 +133,5 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDcwNDkwNl19
+eyJoaXN0b3J5IjpbMTQ0MDE4Mjc2MCwxNDI0NzA0OTA2XX0=
 -->
