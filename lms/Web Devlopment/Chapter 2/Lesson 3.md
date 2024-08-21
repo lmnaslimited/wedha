@@ -43,13 +43,14 @@ Block-level elements occupy the full width available and start on a new line. Th
 Inline elements only occupy as much width as necessary and do not start on a new line. They are used to style small portions of content within block-level elements.
 
 **Examples:**
--   **`<span>`**: Used to group inline elements and apply styles.
+-   **`<span>`**: Applies styles or scripts to a portion of text.
 -   **`<a>`**: Defines a hyperlink.
 
+**Here are the inline elements in HTML:**
 
 ## **Remember**
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTQ2MjAzMSwtMTc1OTY1NTk3NF19
+eyJoaXN0b3J5IjpbNTUxMjE3MTk4LC0xNzU5NjU1OTc0XX0=
 -->
