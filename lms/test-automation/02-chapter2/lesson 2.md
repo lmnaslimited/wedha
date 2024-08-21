@@ -3,7 +3,6 @@
 
 Assertions in Cypress are used to verify that certain conditions are true during a test, ensuring that the application behaves as expected. They help confirm whether elements exist, have the correct text, are visible, or meet other criteria, validating that the actual outcome matches the expected result. Assertions are crucial in automated testing for validating the state of your application and ensuring it functions correctly across different scenarios.
 
-
 # **Common Assertion Functions**
 
 ### should( )
@@ -46,13 +45,12 @@ Assertions in Cypress are used to verify that certain conditions are true during
 	cy.get('.header').then($header => {assert.equal($header.text(), 'Welcome', 'Header text is "Welcome"')}) // Asserts that the header text is exactly "Welcome"
 	```
 
-
 # **Key Points**
 -   **Assertions Validate Behavior**: They ensure that elements and values meet expected conditions, confirming that the application functions correctly.
 -   **Chaining Assertions**: Use `and()` to combine multiple checks on the same element or value.
 -   **Flexibility `expect()`**: Allows for more complex and customized assertions.
 -   **Control with `assert()`**: Provides detailed assertion capabilities when needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAwMzE1OTQsMTgxNTMyNTA5MiwtNT
+eyJoaXN0b3J5IjpbLTE2MTM2MzE2NTgsMTgxNTMyNTA5MiwtNT
 IxNjY2OTZdfQ==
 -->
