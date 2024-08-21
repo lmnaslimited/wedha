@@ -8,8 +8,17 @@ Assertions in Cypress are used to verify that certain conditions are true during
 
 ### should( )
 
-**Description**: `should()` is the primary assertion function in Cypress. It is used to assert that the subject (an element, value, etc.) meets certain conditions.
+- **Description**: `should()` is the primary assertion function in Cypress. It is used to assert that the subject (an element, value, etc.) meets certain conditions.
 -   **Purpose**: To verify that an element or value has a specific property, state, or content.
+
+	```javascript
+	cy.get('.header').should('be.visible')  
+	// Asserts that the element with class "header" is visible
+	cy.get('.login-button').should('have.text', 'Log In') 
+ // Asserts that the button has the text "Log In"
+
+	```
+
 
 ### and( )
 Cypress supports modern JavaScript frameworks and libraries out of the box, including React, Angular, Vue, and others.
@@ -32,5 +41,5 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYzNzU5NDVdfQ==
+eyJoaXN0b3J5IjpbODI4MzgxMDA5XX0=
 -->
