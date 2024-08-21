@@ -31,7 +31,7 @@
     -   Syntax: `<!-- Comment -->`
     -   **Purpose**: Use comments to document sections of your HTML code, making it easier to understand and maintain.
 
-	### **Example:**
+	**Example:**
 	```html
 	<!-- This is a comment explaining the header section -->
 	<header>
@@ -44,6 +44,6 @@
 	</main>
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk0NTAwNzcsMjExNTg4OTY3NiwtMj
+eyJoaXN0b3J5IjpbLTE3MjU3MzQyMDgsMjExNTg4OTY3NiwtMj
 A4ODc0NjYxMl19
 -->
