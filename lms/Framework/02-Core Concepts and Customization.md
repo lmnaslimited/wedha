@@ -1,7 +1,37 @@
+
 # Core Concepts and Customization
 
+Let's ex
 
+## Lesson Structure
 
+### Lesson 1 : Introduction to LENS
+
+Get familiar with LENS architecture, core components, and basic concepts.
+
+### Lesson 2 : Users, Roles and Permissions
+
+Learn how to create and manage roles and their permissions.
+
+### Lesson 3 : What is DocType
+
+Learn about creating a new DocType and customizing an existing one.
+
+### Lesson 4 : Test Your Knowledge
+
+This lesson includes practical tasks to reinforce your learning and a quiz to ensure you grasp the essential concepts. Let’s get started and see how much you’ve mastered!
+
+### Lesson 5 : LENS Hands-On
+
+Gain practical experience in developing and deploying applications using the LENS.
+
+## Moving Forward
+
+-   Review the key points from every lesson.
+-   Prepare for the next lesson by completing any assigned tasks.
+-   Stay engaged and ready for more learning!
+
+Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODk4NzgzM119
+eyJoaXN0b3J5IjpbLTk2NDI2MDY3MiwxMzE4OTg3ODMzXX0=
 -->
