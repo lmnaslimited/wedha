@@ -15,14 +15,12 @@ Cypress offers various assertion functions to validate different aspects of your
 	cy.get('.welcome-message').should('be.visible') 
     // Asserts that the element with class "welcome-message" is visible
 	 ```
-    ```
+    
  5.**should('have.text')** -  Asserts that an element contains the exact specified text.   
 
 ```javascript
-		cy.get('.login-button').should('have.text', 'Log In') //Asserts that the button has the exact text "Log In"
-	```
-    
-
+cy.get('.login-button').should('have.text', 'Log In') //Asserts that the button has the exact text "Log In"
+```
 ### 6. **`should('contain.text', text)`**
 
 -   **Description**: Asserts that an element contains the specified text anywhere within it.
@@ -142,6 +140,6 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI0MzI3MjIsMTYwNjcyODY2MiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDM0OTUzNjkyLDE2MDY3Mjg2NjIsLTIwOD
+g3NDY2MTJdfQ==
 -->
