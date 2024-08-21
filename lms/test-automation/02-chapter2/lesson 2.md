@@ -28,16 +28,26 @@ Assertions in Cypress are used to verify that certain conditions are true during
 
 ### expect( )
 
-```javascript
-cy.get('.header').should('be.visible')  // Asserts that the element with class "header" is visible
-				
-cy.get('.login-button').should('have.text', 'Log In') // Asserts that the button has the text "Log In"
-```
+-   **Description**: `expect()` is another way to write assertions in Cypress, typically used for more complex conditions or custom assertions.
+-   **Purpose**: To write assertions in a more flexible and expressive way.
+
+	```javascript
+	cy.get('.header').then($header => {
+	  expect($header).to.have.class('active')  // Asserts that the header has the class "active"
+	})
+	```
 
 ### assert( )
 
-Cypress automatically waits for elements to appear, animations to  
-complete, and XHR requests to finish, reducing the need for manual wait commands.
+-   **Description**: `assert()` is a lower-level function used to make assertions, similar to `expect()`, but typically used when you need more control over the testing process.
+-   **Purpose**: To perform custom, lower-level assertions.
+
+
+```javascript
+	cy.get('.header').then($header => {
+	  expect($header).to.have.class('active')  // Asserts that the header has the class "active"
+	})
+```
 
 
 # **Cypress supports various types of testing**
@@ -48,5 +58,5 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzkzMjU0Nl19
+eyJoaXN0b3J5IjpbLTE0NTEwNDA3MTldfQ==
 -->
