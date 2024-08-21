@@ -21,15 +21,10 @@ Cypress offers various assertion functions to validate different aspects of your
 	cy.get('.login-button').should('have.text', 'Log In') //Asserts that the button has the exact text "Log In"
 	```
 4. **should('have.value', value)**- Asserts that an input or textarea element has a specific value.
-
-
-
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('input[name="username"]').should('have.value', 'user123')  // Asserts that the input has the value "user123"` 
+	```javascript
+	cy.get('input[name="username"]').should('have.value', 'user123')  
+	// Asserts that the input has the value "user123" 
+	```
     
 
 ### 11. **`should('be.checked')`**
@@ -91,6 +86,6 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg4Mzk3MjMsMTYwNjcyODY2MiwtMj
+eyJoaXN0b3J5IjpbLTE1NzAwNjMzMTUsMTYwNjcyODY2MiwtMj
 A4ODc0NjYxMl19
 -->
