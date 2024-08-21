@@ -47,20 +47,11 @@ Inline elements only occupy as much width as necessary and do not start on a new
 -   **`<a>`**: Defines a hyperlink.
 
 **Here are the inline elements in HTML:**
- `<a>` `<abbr>` `<acronym>` `<b>` `<bdo>` `<big>` `<br>` `<button>` `<cite>` `<code>` `<dfn>` `<em>` `<i>` `<img>` `<input>` `<kbd>` `<label>` `<map>` `<object>` `<output>` `<q>` `<samp>` `<script>` `<select>`
- `<small>`
- `<span>`
- `<strong>`
- `<sub>`
- `<sup>`
- `<textarea>`
- `<time>`
- `<tt>`
- `<var>` 
+`<a>` `<abbr>` `<acronym>` `<b>` `<bdo>` `<big>` `<br>` `<button>` `<cite>` `<code>` `<dfn>` `<em>` `<i>` `<img>` `<input>` `<kbd>` `<label>` `<map>` `<object>` `<output>` `<q>` `<samp>` `<script>` `<select>` `<small>` `<span>` `<strong>` `<sub>` `<sup>` `<textarea>` `<time>` `<tt>` `<var>` 
 
 ## **Remember**
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTYyMzg2MiwtMTc1OTY1NTk3NF19
+eyJoaXN0b3J5IjpbLTIwMjU0MzA3MCwtMTc1OTY1NTk3NF19
 -->
