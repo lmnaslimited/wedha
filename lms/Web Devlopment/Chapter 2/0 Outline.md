@@ -12,28 +12,28 @@ We'll start by defining HTML, understanding its purpose, and exploring its role 
 
 Learn to write HTML code in VS Code, preview it with Live Server, check browser compatibility, and use comments for documentation.
 
-## **Lesson 2: Basic Tags and Attributes**
+## **Lesson 3: Basic Tags and Attributes**
 
 Learn core HTML tags for structuring web pages, including headings, paragraphs, links, images, and lists. Discover how to use attributes like `id`, `class`, and `src` to modify these elements.
 
-## **Lesson 3: Block-Level vs. Inline Elements**
+## **Lesson 4: Block-Level vs. Inline Elements**
 
 Differentiate between block-level elements (e.g., `<div>`, `<h1>`) and inline elements (e.g., `<span>`, `<a>`), and understand their impact on layout.
 
-## **Lesson 4: HTML Boilerplate**
+## **Lesson 5: HTML Boilerplate**
 
 Understand the HTML boilerplate code and its significance in creating a well-structured document.
 
 
-## **Lesson 7: HTML Tables**
+## **Lesson 6: HTML Tables**
 
 Learn how to create and format tables with HTML tags such as `<table>`, `<tr>`, `<td>`, and `<th>`.
 
-## **Lesson 8: HTML Forms**
+## **Lesson 7: HTML Forms**
 
 Get familiar with HTML forms and their elements, including `<form>`, `<input>`, `<textarea>`, and `<button>`. Understand their attributes and methods.
 
-## **Lesson 9: How to Link Multiple HTML Pages**
+## **Lesson : How to Link Multiple HTML Pages**
 
 Discover how to create hyperlinks to navigate between multiple HTML pages.
 
@@ -60,6 +60,6 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDEwNTI3MywxODU4MDEyNTExLDUzMj
+eyJoaXN0b3J5IjpbLTk5NjQyMjQyOSwxODU4MDEyNTExLDUzMj
 QyMDI0LDEzMDY5MDI0MjYsLTEzMDQ2MTc3N119
 -->
