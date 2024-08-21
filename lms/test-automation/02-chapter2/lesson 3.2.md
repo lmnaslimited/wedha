@@ -13,11 +13,9 @@ The `expect()` function in Cypress is used for making assertions in a more flexi
 	```javascript
 	cy.get('input[name="email"]').then($input => {
 	expect($input).to.have.attr('placeholder', 'Enter your email')  
-	  })
+	 })
 	// Asserts that the input has the placeholder "Enter your email"
-	```
-
-    
+	```    
 4.  **Check if an Element is Visible**
     
     javascript
@@ -122,5 +120,5 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2OTk5NzIzLDE0MjQ3MDQ5MDZdfQ==
+eyJoaXN0b3J5IjpbLTg0MTg0NTExMywxNDI0NzA0OTA2XX0=
 -->
