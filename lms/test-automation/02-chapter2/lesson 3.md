@@ -2,14 +2,12 @@
 Cypress offers various assertion functions to validate different aspects of your application. Here are some common ones and their syntax:
 ## **Common assertions used with `should()`** :
 
-### 1. **should('exist')**
+1. **should('exist')** -
 
--   **Description**: Asserts that an element exists in the DOM.
-
-    
-	 ```javascript
-	`cy.get('.navbar').should('exist')  // Asserts that the element with class "navbar" exists in the DOM` 
-	```
+   Asserts that an element exists in the DOM.
+```javascript
+cy.get('.navbar').should('exist')  // Asserts that the element with class "navbar" exists in the DOM 
+```
 
 
 ### 2. **should('be.visible')**
@@ -165,5 +163,5 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTY2ODQwNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTYzMzk4Njg0OSwtMjA4ODc0NjYxMl19
 -->
