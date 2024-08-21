@@ -43,11 +43,10 @@ Assertions in Cypress are used to verify that certain conditions are true during
 -   **Purpose**: To perform custom, lower-level assertions.
 
 
-```javascript
-	cy.get('.header').then($header => {
-	  expect($header).to.have.class('active')  // Asserts that the header has the class "active"
+	```javascript
+	cy.get('.header').then($header => {assert.equal($header.text(), 'Welcome', 'Header text is "Welcome"')  // Asserts that the header text is exactly "Welcome"
 	})
-```
+	```
 
 
 # **Cypress supports various types of testing**
@@ -58,5 +57,5 @@ Assertions in Cypress are used to verify that certain conditions are true during
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEwNDA3MTldfQ==
+eyJoaXN0b3J5IjpbMTIwMDQ0OTkxMF19
 -->
