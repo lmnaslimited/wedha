@@ -7,7 +7,7 @@ Welcome to **Cypress!** In this lesson, we will explore the foundational concept
 ### Lesson 1 : Assertion in Cypress
 We are going to explore assertions in Cypress, which verify that elements and values in your application meet expected conditions.
 
-### Lesson 2 :
+### Lesson 2 : Syntax for assertions 
 
 We are going to Install Node.js, navigate to your project directory, run the cypress commands to install the testing tool.
 
@@ -35,7 +35,7 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM2MjEyODMsLTEwMTEzNDg1MDksLT
-ExMzk0MDc1NjUsLTE5NjYyOTY4NywtODU1Mjc3NDIsLTE5MTI0
-NDEzODJdfQ==
+eyJoaXN0b3J5IjpbMTE0MzEwNzM2NiwtMTAxMTM0ODUwOSwtMT
+EzOTQwNzU2NSwtMTk2NjI5Njg3LC04NTUyNzc0MiwtMTkxMjQ0
+MTM4Ml19
 -->
