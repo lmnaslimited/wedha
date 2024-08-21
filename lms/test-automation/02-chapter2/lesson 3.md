@@ -41,27 +41,20 @@ Here are some common assertions used with `and()`:
 ### Common Assertions with `and()`
 
 1.  **Combining Visibility and Text Content**
-    
-    javascript
-    
-
-    
-    `cy.get('.header')
-      .should('be.visible')
-      .and('contain.text', 'Welcome')  // Asserts that the header is visible and contains the text "Welcome"` 
-   
-3.  **Combining Attribute Checks**
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('input[type="text"]')
+	``` javascript
+	 cy.get('.header')
+	   .should('be.visible')
+	   .and('contain.text', 'Welcome')  // Asserts that the header is visible and contains the text "Welcome"
+	```
+2.  **Combining Attribute Checks**
+```javascript
+  cy.get('input[type="text"]')
       .should('have.attr', 'placeholder', 'Enter your name')
-      .and('have.value', '')  // Asserts that the input has the placeholder "Enter your name" and is empty` 
+      .and('have.value', '')  // Asserts that the input has the placeholder "Enter your name" and is empty
+     
     
 
-5.  **Combining Enabled/Disabled State**
+4.  **Combining Enabled/Disabled State**
     
     javascript
     
@@ -71,7 +64,7 @@ Here are some common assertions used with `and()`:
       .should('be.enabled')
       .and('have.text', 'Submit')  // Asserts that the submit button is enabled and has the text "Submit"` 
     
-6.  **Combining Check State and Visibility**
+5.  **Combining Check State and Visibility**
     
     javascript
     
@@ -81,7 +74,7 @@ Here are some common assertions used with `and()`:
       .should('be.checked')
       .and('be.visible')  // Asserts that the checkbox is checked and visible` 
     
-7.  **Combining Element Existence and Attribute**
+6.  **Combining Element Existence and Attribute**
     
     javascript
     
@@ -94,6 +87,6 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4Njc2MjMzLDIxMzc4OTY3ODYsMzc4OD
-E2NzQ5LDE2MDY3Mjg2NjIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzYxNDk4OTksMjEzNzg5Njc4NiwzNz
+g4MTY3NDksMTYwNjcyODY2MiwtMjA4ODc0NjYxMl19
 -->
