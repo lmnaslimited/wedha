@@ -16,8 +16,14 @@ An unordered list is a collection of items that do not have a specific order. Th
     <li>Item 3</li>
 </ul>
 ```
+**Example:**
 
-### **Example:**
+<ul>
+    <li>Fruits</li>
+    <li>Vegetables</li>
+    <li>Dairy</li>
+</ul>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMTc3OTBdfQ==
+eyJoaXN0b3J5IjpbNTAwODc5MjMzXX0=
 -->
