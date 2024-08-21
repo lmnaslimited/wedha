@@ -46,6 +46,7 @@ Here are some common assertions used with `and()`:
 	   .should('be.visible')
 	   .and('contain.text', 'Welcome')  // Asserts that the header is visible and contains the text "Welcome"
 	```
+	
 2.  **Combining Attribute Checks**
 
 	```javascript
@@ -63,29 +64,27 @@ Here are some common assertions used with `and()`:
       .and('have.text', 'Submit')  
       // Asserts that the submit button is enabled and has the text "Submit" 
     ```
+    
 5.  **Combining Check State and Visibility**
     
     ```javascript
-    
-    Copy code
-    
-    `cy.get('input[type="checkbox"]')
+    cy.get('input[type="checkbox"]')
       .should('be.checked')
-      .and('be.visible')  // Asserts that the checkbox is checked and visible` 
+      .and('be.visible')  
+      // Asserts that the checkbox is checked and visible
     ```
+    
 6.  **Combining Element Existence and Attribute**
     
-    javascript
-    
-    Copy code
-    
-    `cy.get('.alert')
+    ```javascript
+    cy.get('.alert')
       .should('exist')
-      .and('have.attr', 'role', 'alert')  // Asserts that the alert element exists and has the role attribute set to "alert"` 
- 
+      .and('have.attr', 'role', 'alert') 
+      // Asserts that the alert element exists and has the role attribute set to "alert" 
+    ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTI0MDg0MSwyMTM3ODk2Nzg2LDM3OD
-gxNjc0OSwxNjA2NzI4NjYyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0NTQ0MjgyOTksMjEzNzg5Njc4NiwzNz
+g4MTY3NDksMTYwNjcyODY2MiwtMjA4ODc0NjYxMl19
 -->
