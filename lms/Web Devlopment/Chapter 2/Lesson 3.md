@@ -27,6 +27,8 @@ Elements Some HTML elements do not have content and are called empty elements. T
  - **Horizontal Rule (`<hr>`):** Creates a thematic break or horizontal line.
  - **Image (`<img>`):** Embeds an image into the document. 
 
+##**  Block and Inline Elements
+
 ## **Block-Level Elements**
 
 Block-level elements occupy the full width available and start on a new line. They are used to structure larger sections of content.
@@ -39,6 +41,6 @@ Block-level elements occupy the full width available and start on a new line. Th
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA0MjQyNzMsLTE3NTk2NTU5NzRdfQ
+eyJoaXN0b3J5IjpbLTE4MTUzNTM4OTUsLTE3NTk2NTU5NzRdfQ
 ==
 -->
