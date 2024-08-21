@@ -4,8 +4,7 @@ Welcome to **Cypress!** In this lesson, we will explore the foundational concept
 
 ## Lesson Structure
 
-### Lesson 1 : BeforeEach Function
-
+### Lesson 1 : Assertion in Cypress
 We are going to explore Cypress, a powerful tool for automated testing. We will cover what Cypress is, delve into its key features.
 
 ### Lesson 2 : Cypress Installation Setup
@@ -36,6 +35,6 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk0MDc1NjUsLTE5NjYyOTY4NywtOD
-U1Mjc3NDIsLTE5MTI0NDEzODJdfQ==
+eyJoaXN0b3J5IjpbLTEwMTEzNDg1MDksLTExMzk0MDc1NjUsLT
+E5NjYyOTY4NywtODU1Mjc3NDIsLTE5MTI0NDEzODJdfQ==
 -->
