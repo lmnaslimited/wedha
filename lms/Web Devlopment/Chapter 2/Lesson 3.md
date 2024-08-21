@@ -16,42 +16,47 @@ The HTML element is everything from the start tag to the end tag.
 -   **Content**: `My First Heading`
 -   **End tag**: `</h1>`
 
-## **Empty Element**
-Elements Some HTML elements do not have content and are called empty elements. They do not have an end tag. 
+## **Empty Elements**
 
-**Example of Some Empty Element:** 
- -  **Line Break (`<br>`):** Inserts a line break in the text.
- - **Horizontal Rule (`<hr>`):** Creates a thematic break or horizontal line.
- - **Image (`<img>`):** Embeds an image into the document. 
+Some HTML elements do not have content and are called empty elements. They do not have an end tag.
+
+**Examples of Empty Elements:**
+
+-   **Line Break (`<br>`):** Inserts a line break in the text.
+-   **Horizontal Rule (`<hr>`):** Creates a thematic break or horizontal line.
+-   **Image (`<img>`):** Embeds an image into the document.
 
 ## **Block and Inline Elements**
-Every HTML element has a default display value, depending on what type of element it is.
 
-The two most common display values are block and inline.
+Every HTML element has a default display value, depending on its type. The two most common display values are block and inline.
 
 ### **Block-Level Elements**
+
 Block-level elements occupy the full width available and start on a new line. They are used to structure larger sections of content.
 
-**Examples:** 
-- **`<div>`**: Defines a division or section of content. 
-- **`<p>`**: Represents a paragraph of text.
+**Examples:**
 
-**Here are the block-level elements in HTML:**
-`<address>`  `<article>`  `<aside>`  `<blockquote>`  `<canvas>`  `<dd>`   `<div>`   `<dl>`  `<dt>`  `<fieldset>`  `<figcaption>`   `<figure>`   `<footer>`   `<form>`   `<h1>` to `<h6>`  `<header>`   `<hr>`  `<li>`   `<main>`  `<nav>` `<noscript>`   `<ol>`  `<p>`   `<pre>`   `<section>`  `<table>` `<tfoot>`   `<ul>`  `<video>`
+-   **`<div>`**: Defines a division or section of content.
+-   **`<p>`**: Represents a paragraph of text.
+
+**Here are the block-level elements in HTML:** `<address>` `<article>` `<aside>` `<blockquote>` `<canvas>` `<dd>` `<div>` `<dl>` `<dt>` `<fieldset>` `<figcaption>` `<figure>` `<footer>` `<form>` `<h1>` to `<h6>` `<header>` `<hr>` `<li>` `<main>` `<nav>` `<noscript>` `<ol>` `<p>` `<pre>` `<section>` `<table>` `<tfoot>` `<ul>` `<video>`
 
 ### **Inline Elements**
+
 Inline elements only occupy as much width as necessary and do not start on a new line. They are used to style small portions of content within block-level elements.
 
 **Examples:**
+
 -   **`<span>`**: Applies styles or scripts to a portion of text.
 -   **`<a>`**: Defines a hyperlink.
 
 **Here are the inline elements in HTML:**
-`<a>` `<abbr>` `<acronym>` `<b>` `<bdo>` `<big>` `<br>` `<button>` `<cite>` `<code>` `<dfn>` `<em>` `<i>` `<img>` `<input>` `<kbd>` `<label>` `<map>` `<object>` `<output>` `<q>` `<samp>` `<script>` `<select>` `<small>` `<span>` `<strong>` `<sub>` `<sup>` `<textarea>` `<time>` `<tt>` `<var>` 
+ `<a>` `<abbr>` `<acronym>` `<b>` `<bdo>` `<big>` `<br>` `<button>` `<cite>` `<code>` `<dfn>` `<em>` `<i>` `<img>` `<input>` `<kbd>` `<label>` `<map>` `<object>` `<output>` `<q>` `<samp>` `<script>` `<select>` `<small>` `<span>` `<strong>` `<sub>` `<sup>` `<textarea>` `<time>` `<tt>` `<var>`
 
 ## **Remember**
+
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU0MzA3MCwtMTc1OTY1NTk3NF19
+eyJoaXN0b3J5IjpbLTI2MDczMTMzOCwtMTc1OTY1NTk3NF19
 -->
