@@ -29,7 +29,7 @@ An ordered list is a collection of items that are presented in a specific sequen
 </ol>
 ```
 
-## **HTML Description Lists**
+## **Description Lists**
 
 Description list is a list of terms, with a description of each term.
 
@@ -51,6 +51,6 @@ Description list is a list of terms, with a description of each term.
 -   **`type`**: Use the HTML `type` attribute to define the numbering type in ordered lists.
 - **`list-style-type`**: Use the CSS `list-style-type` property to define the list item marker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0MDMzNzQ4LDExMjExODg4OTgsLTcxOD
-czOTc0MSw2NDUwNDM1MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjk2MDYzNTksMTEyMTE4ODg5OCwtNz
+E4NzM5NzQxLDY0NTA0MzUxM119
 -->
