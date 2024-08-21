@@ -4,7 +4,9 @@
 
 **Steps:**
 
-1.  Assuming you've successfully  installed Cypress and opened Cypress now it's time to add your first test. We're going to do this with the **Create new empty spec** button.
+1. **Create the Test File** :
+
+	Create a new file named `File_name.cy.js`.
     
 2.  Open Cypress for the first time to create the default folder structure:
     
@@ -58,5 +60,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY0NTg5NzEsLTE4NjQ2MDk1NV19
+eyJoaXN0b3J5IjpbLTc4NTAzOTkwNiwtMTg2NDYwOTU1XX0=
 -->
