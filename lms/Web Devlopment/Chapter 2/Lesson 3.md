@@ -4,14 +4,12 @@
 
 **Definition**: A tag is an HTML element used to structure content on a web page. It consists of a start tag and an end tag, enclosing content.
 
-##
+## **Core Tags**
+
 ### **Headings**:
-    
-    -   **Tag**: `<h1>` to `<h6>`
-    -   **Example**:
-       
+	**Tag**: `<h1>` to `<h6>`
            
         
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAxNjEzMjhdfQ==
+eyJoaXN0b3J5IjpbLTE0NjQyNjk4MDJdfQ==
 -->
