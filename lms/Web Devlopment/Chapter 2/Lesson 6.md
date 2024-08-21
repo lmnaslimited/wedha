@@ -33,12 +33,6 @@ An ordered list is a collection of items that are presented in a specific sequen
 
 Description lists are used to present terms and their descriptions.
 
-### **Key Elements**
-
--   **`<dl>`**: Defines a description list.
--   **`<dt>`**: Defines a term in the description list.
--   **`<dd>`**: Defines a description for the term.
-
 ### **Basic Structure:**
 ```html
 <dl>
@@ -52,5 +46,6 @@ Description lists are used to present terms and their descriptions.
 </dl>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODczOTc0MSw2NDUwNDM1MTNdfQ==
+eyJoaXN0b3J5IjpbMTEyMTE4ODg5OCwtNzE4NzM5NzQxLDY0NT
+A0MzUxM119
 -->
