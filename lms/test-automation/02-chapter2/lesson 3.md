@@ -27,14 +27,13 @@ Cypress offers various assertion functions to validate different aspects of your
 	// Asserts that the input has the value "user123" 
 	```
 5. **should('have.length', length)**- Asserts that a set of elements has a specific number of items.
-
-    
 	``` javascript
-	cy.get('.list-item').should('have.length', 3)  // Asserts that there are exactly 3 elements with the class "list-item"
+	cy.get('.list-item').should('have.length', 3) 
+	// Asserts that there are exactly 3 elements with the class "list-item"
 	```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzQxODc4MSwxNjA2NzI4NjYyLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzc4ODE2NzQ5LDE2MDY3Mjg2NjIsLTIwOD
+g3NDY2MTJdfQ==
 -->
