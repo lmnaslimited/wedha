@@ -1,84 +1,184 @@
-## Synatx for assertions 
+## Syntax for assertions 
 Cypress offers various assertion functions to validate different aspects of your application. Here are some common ones and their syntax:
 
-### 1. **cy.visit()**
+### 1. **should('exist')**
 
- **Functionality**: Loads a remote URL into the Cypress Test Runner.
+-   **Description**: Asserts that an element exists in the DOM.
+-   **Example**:
+    
  ```javascript
- cy.visit('https://example.com')
- ```
-
-### 2. **cy.get()**
-   **Functionality**: Queries for an element in the DOM using a CSS selector.
-   ```javascript
-cy.get('button').click()
- ```
- 
-### 3. **cy.contains()**
-   **Functionality**: Finds an element containing specific text.
-   ```javascript
-cy.contains('Submit').click()
- ```
-
-### 4. **cy.click()**
-   **Functionality**: Finds an element containing specific text.
-   ```javascript
-cy.get('.btn').click()
- ```
- 
-### 5. **cy.type()**
-
-**Functionality**: Types text into an input field or textarea.
-    
-   ```javascript 
-cy.get('input[name="email"]').type('test@example.com')
-```
-   
-### 6. **cy.clear()**
-
-**Functionality**: Clears the value of an input or textarea.
-```javascript
-cy.get('input[name="search"]').clear()
- ```
-
-### 7. **cy.select()**
-
-**Functionality**: Selects an option in a `<select>` dropdown.
-
-    
-```javascript
-cy.get('select').select('Option 1')
+`cy.get('.navbar').should('exist')  // Asserts that the element with class "navbar" exists in the DOM` 
 ```
 
-### 8. **cy.check()**
+### 2. **`should('not.exist')`**
 
-**Functionality**: Checks a checkbox or radio button.
-
+-   **Description**: Asserts that an element does not exist in the DOM.
+-   **Example**:
     
-```javascript
-cy.get('input[type="checkbox"]').check()
-```
- 
-### 9. **cy.submit()**
-**Functionality**: Submits a form.
+    javascript
+    
+    Copy code
+    
+    `cy.get('.modal').should('not.exist')  // Asserts that the element with class "modal" does not exist in the DOM` 
+    
 
-```javascript
-cy.get('form').submit()
-  ``` 
+### 3. **`should('be.visible')`**
 
-### 10. **cy.wait()**
-**Functionality**: Waits for a specified amount of time or waits for a specific route to complete.
+-   **Description**: Asserts that an element is visible on the page.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.welcome-message').should('be.visible')  // Asserts that the element with class "welcome-message" is visible` 
+    
 
-```javascript
-  cy.wait(1000) // Wait for 1 second
-  cy.wait('@getData') // Wait for a specific route
-  ``` 
+### 4. **`should('not.be.visible')`**
 
+-   **Description**: Asserts that an element is not visible on the page.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.loading-spinner').should('not.be.visible')  // Asserts that the element with class "loading-spinner" is not visible` 
+    
 
+### 5. **`should('have.text', text)`**
 
+-   **Description**: Asserts that an element contains the exact specified text.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.login-button').should('have.text', 'Log In')  // Asserts that the button has the exact text "Log In"` 
+    
+
+### 6. **`should('contain.text', text)`**
+
+-   **Description**: Asserts that an element contains the specified text anywhere within it.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.error-message').should('contain.text', 'Invalid credentials')  // Asserts that the error message contains the text "Invalid credentials"` 
+    
+
+### 7. **`should('have.class', className)`**
+
+-   **Description**: Asserts that an element has the specified CSS class.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.nav-item').should('have.class', 'active')  // Asserts that the element has the class "active"` 
+    
+
+### 8. **`should('not.have.class', className)`**
+
+-   **Description**: Asserts that an element does not have the specified CSS class.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.nav-item').should('not.have.class', 'disabled')  // Asserts that the element does not have the class "disabled"` 
+    
+
+### 9. **`should('have.attr', attribute, value)`**
+
+-   **Description**: Asserts that an element has a specific attribute with a specific value.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('input[type="checkbox"]').should('have.attr', 'checked', 'checked')  // Asserts that the checkbox has the "checked" attribute` 
+    
+
+### 10. **`should('have.value', value)`**
+
+-   **Description**: Asserts that an input or textarea element has a specific value.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('input[name="username"]').should('have.value', 'user123')  // Asserts that the input has the value "user123"` 
+    
+
+### 11. **`should('be.checked')`**
+
+-   **Description**: Asserts that a checkbox or radio button is checked.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('input[type="checkbox"]').should('be.checked')  // Asserts that the checkbox is checked` 
+    
+
+### 12. **`should('not.be.checked')`**
+
+-   **Description**: Asserts that a checkbox or radio button is not checked.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('input[type="checkbox"]').should('not.be.checked')  // Asserts that the checkbox is not checked` 
+    
+
+### 13. **`should('be.enabled')`**
+
+-   **Description**: Asserts that an element is enabled (can be interacted with).
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('button[type="submit"]').should('be.enabled')  // Asserts that the submit button is enabled` 
+    
+
+### 14. **`should('be.disabled')`**
+
+-   **Description**: Asserts that an element is disabled (cannot be interacted with).
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('button[type="submit"]').should('be.disabled')  // Asserts that the submit button is disabled` 
+    
+
+### 15. **`should('have.length', length)`**
+
+-   **Description**: Asserts that a set of elements has a specific number of items.
+-   **Example**:
+    
+    javascript
+    
+    Copy code
+    
+    `cy.get('.list-item').should('have.length', 3)  // Asserts that there are exactly 3 elements with the class "list-item"`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgxMzYwNTMsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTEzMzgwNDEwMDYsLTIwODg3NDY2MTJdfQ
 ==
 -->
