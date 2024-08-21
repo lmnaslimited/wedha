@@ -9,9 +9,7 @@ Cypress offers various assertion functions to validate different aspects of your
 	cy.get('.navbar').should('exist')  
 	// Asserts that the element with class "navbar" exists in the DOM 
 	```
-
-
-### 2. **should('be.visible')**
+ 2. **should('be.visible')** - Asserts that an element is visible on the page.
 
 
 
@@ -164,5 +162,6 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjcyODY2MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2MTQzMDQyNjAsMTYwNjcyODY2MiwtMj
+A4ODc0NjYxMl19
 -->
