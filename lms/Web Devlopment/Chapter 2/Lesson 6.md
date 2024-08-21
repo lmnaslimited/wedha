@@ -45,7 +45,23 @@ Description lists are used to present terms and their descriptions.
     <!-- Add more terms and descriptions as needed -->
 </dl>
 ```
+
+### **List Elments**
+
+-   **`<ul>`**: Defines an unordered list.
+    
+-   **`<ol>`**: Defines an ordered list.
+    
+-   **`<li>`**: Defines a list item.
+    
+-   **`<dl>`**: Defines a description list.
+    
+-   **`<dt>`**: Defines a term in the description list.
+    
+-   **`<dd>`**: Defines a description for the term.
+    
+-   **`type`**: Use the HTML `type` attribute to define the numbering type in ordered lists.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTE4ODg5OCwtNzE4NzM5NzQxLDY0NT
-A0MzUxM119
+eyJoaXN0b3J5IjpbODE4OTcyNDI5LDExMjExODg4OTgsLTcxOD
+czOTc0MSw2NDUwNDM1MTNdfQ==
 -->
