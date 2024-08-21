@@ -109,12 +109,10 @@ Here are some common assertions used with `and()`:
     `cy.get('.alert')
       .should('exist')
       .and('have.attr', 'role', 'alert')  // Asserts that the alert element exists and has the role attribute set to "alert"` 
-    
-
-### Summa
+ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTAzNTE0OCwzNzg4MTY3NDksMTYwNj
+eyJoaXN0b3J5IjpbMjEzNzg5Njc4NiwzNzg4MTY3NDksMTYwNj
 cyODY2MiwtMjA4ODc0NjYxMl19
 -->
