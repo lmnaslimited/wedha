@@ -8,7 +8,8 @@ Assertions in Cypress are used to verify that certain conditions are true during
 
 ### should( )
 
-Cypress supports multiple browsers, including Chrome, Firefox, and Edge, allowing you to test across different environments.
+**Description**: `should()` is the primary assertion function in Cypress. It is used to assert that the subject (an element, value, etc.) meets certain conditions.
+-   **Purpose**: To verify that an element or value has a specific property, state, or content.
 
 ### and( )
 Cypress supports modern JavaScript frameworks and libraries out of the box, including React, Angular, Vue, and others.
@@ -31,5 +32,5 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI1MDM3MTldfQ==
+eyJoaXN0b3J5IjpbLTE3OTYzNzU5NDVdfQ==
 -->
