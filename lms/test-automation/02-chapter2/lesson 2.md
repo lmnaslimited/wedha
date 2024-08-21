@@ -28,7 +28,11 @@ Assertions in Cypress are used to verify that certain conditions are true during
 
 ### expect( )
 
-
+```javascript
+cy.get('.header').should('be.visible')  // Asserts that the element with class "header" is visible
+				
+cy.get('.login-button').should('have.text', 'Log In') // Asserts that the button has the text "Log In"
+```
 
 ### assert( )
 
@@ -44,5 +48,5 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNDYxNjYzXX0=
+eyJoaXN0b3J5IjpbLTg2MzkzMjU0Nl19
 -->
