@@ -13,4 +13,7 @@ Media -> add file -> upload files -> commit changes
 
 > right click on image file and copy image link
 
-then use it to edit in your "stackedit"
+then use it to edit in your "stackedit"configure
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg1NzAzOTYwOV19
+-->
