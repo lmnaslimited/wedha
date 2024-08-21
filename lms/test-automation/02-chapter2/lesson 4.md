@@ -10,28 +10,30 @@
     
 2. **Write the Test Code**:
 	Open `File_name.cy.js` in your code editor and add the following code:
-```javascript
-describe('Example Test Suite', () => {
-  it('Test 1: Verifies the title of the page', () => {
-    // Visit the example Cypress page
-    cy.visit('https://example.cypress.io/')
-    
-    // Verify the title of the page
-    cy.title().should('eq', 'Cypress.io: Kitchen Sink')
-  })
+	```javascript
+	describe('Example Test Suite', () => {
+	  it('Test 1: Verifies the title of the page', () => {
+	    // Visit the example Cypress page
+	    cy.visit('https://example.cypress.io/')
+	    
+	    // Verify the title of the page
+	    cy.title().should('eq', 'Cypress.io: Kitchen Sink')
+	  })
 
-  it('Test 2: Verifies a button click', () => {
-    // Visit the example Cypress page
-    cy.visit('https://example.cypress.io/')
-    
-    // Find the "get" button and click it
-    cy.contains('get').click()
-    
-    // Verify the button text after clicking
-    cy.get('.query-btn').should('contain.text', 'Button')
-  })
-})
-```
+	  it('Test 2: Verifies a button click', () => {
+	    // Visit the example Cypress page
+	    cy.visit('https://example.cypress.io/')
+	    
+	    // Find the "get" button and click it
+	    cy.contains('get').click()
+	    
+	    // Verify the button text after clicking
+	    cy.get('.query-btn').should('contain.text', 'Button')
+	  })
+	})
+	```
+3.**Run the Tests**:
+
 
 **Practice 2**
 
@@ -69,5 +71,5 @@ describe('Example Test Suite', () => {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDg0NTYwMSwtMTg2NDYwOTU1XX0=
+eyJoaXN0b3J5IjpbLTU2NzUyMjE0NywtMTg2NDYwOTU1XX0=
 -->
