@@ -11,7 +11,7 @@ We are going to explore assertions in Cypress, which verify that elements and va
 
 We are going to Install Node.js, navigate to your project directory, run the cypress commands to install the testing tool.
 
-### Lesson 3 :Common assertions used with `()` 
+### Lesson 3 :Common assertions used with `should()` and `and()` 
 
 Get ready to uncover how these commands can streamline your testing process and enhance your productivity.
 
@@ -35,7 +35,7 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzg1MTY0NSwtMTAxMTM0ODUwOSwtMT
-EzOTQwNzU2NSwtMTk2NjI5Njg3LC04NTUyNzc0MiwtMTkxMjQ0
-MTM4Ml19
+eyJoaXN0b3J5IjpbOTY4MzY2OTkzLC0xMDExMzQ4NTA5LC0xMT
+M5NDA3NTY1LC0xOTY2Mjk2ODcsLTg1NTI3NzQyLC0xOTEyNDQx
+MzgyXX0=
 -->
