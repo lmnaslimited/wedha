@@ -2,7 +2,7 @@
 
 In this chapter, we’ll cover the basics of HTML, which is essential for web development. We’ll start with fundamental concepts and gradually move on to more advanced HTML elements.
 
-[![fiTyl1.Screenshot-from-2024-08-20-11-48-35.png](https://i.im.ge/2024/08/20/fiTyl1.Screenshot-from-2024-08-20-11-48-35.png)](https://im.ge/i/Screenshot-from-2024-08-20-11-48-35.fiTyl1)
+[![Screenshot](https://i.im.ge/2024/08/20/fiTyl1.Screenshot-from-2024-08-20-11-48-35.png)](https://im.ge/i/Screenshot-from-2024-08-20-11-48-35.fiTyl1)
 
 ## **Lesson 1: Introduction to HTML**
 
@@ -14,7 +14,7 @@ Learn to write HTML code in VS Code, preview it with Live Server, check browser 
 
 ## **Lesson 3: Basic Tags and Attributes**
 
-Learn core HTML tags for structuring web pages, including headings, paragraphs, links, images, and lists. Discover how to use attributes like `id`, `class`, and `src` to modify these elements.
+Learn core HTML tags for structuring web pages, including headings, paragraphs, links, and images. Discover how to use attributes to modify these elements.
 
 ## **Lesson 4: Block-Level vs. Inline Elements**
 
@@ -24,18 +24,17 @@ Differentiate between block-level elements (e.g., `<div>`, `<h1>`) and inline el
 
 Understand the HTML boilerplate code and its significance in creating a well-structured document.
 
+## **Lesson 6: Lists**
 
-## **Lesson 6: HTML Tables**
+Learn how to create ordered and unordered lists using `<ol>` and `<ul>`, and how to style list items with `<li>`.
+
+## **Lesson 7: HTML Tables**
 
 Learn how to create and format tables with HTML tags such as `<table>`, `<tr>`, `<td>`, and `<th>`.
 
-## **Lesson 7: HTML Forms**
+## **Lesson 8: HTML Forms**
 
 Get familiar with HTML forms and their elements, including `<form>`, `<input>`, `<textarea>`, and `<button>`. Understand their attributes and methods.
-
-## **Lesson 8: How to Link Multiple HTML Pages**
-
-Discover how to create hyperlinks to navigate between multiple HTML pages.
 
 ## **Lesson 9: HTML Entities**
 
@@ -60,6 +59,7 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk2Mjc1MjMsMTg1ODAxMjUxMSw1Mz
-I0MjAyNCwxMzA2OTAyNDI2LC0xMzA0NjE3NzddfQ==
+eyJoaXN0b3J5IjpbMzMxMDE2Mjg0LC0xODg5NjI3NTIzLDE4NT
+gwMTI1MTEsNTMyNDIwMjQsMTMwNjkwMjQyNiwtMTMwNDYxNzc3
+XX0=
 -->
