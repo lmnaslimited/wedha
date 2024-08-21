@@ -84,7 +84,25 @@ The `<img>` tag is used to embed images in a web page.
 ```html
 <img src="https://www.example.com/image.jpg" alt="Description of Image" width="300" height="200">
 ```
+### **5. Iframes**
 
+The `<iframe>` tag is used to embed another HTML document within the current page.
+
+**Tag**: `<iframe>`
+
+**Main Attributes**:
+
+- **`src`**: Specifies the URL of the document to embed.
+- **`width`**: Sets the width of the iframe.
+- **`height`**: Sets the height of the iframe.
+- **`frameborder`**: Specifies whether to display a border around the iframe (use `0` for no border).
+- **`allowfullscreen`**: Allows the iframe content to be displayed in fullscreen mode.
+
+**Example:**
+```html
+<iframe src="https://www.example.com" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzIyNTUzNyw4MDI5MDM1MjRdfQ==
+eyJoaXN0b3J5IjpbLTE2MDkzMzY2ODAsMTUzNzIyNTUzNyw4MD
+I5MDM1MjRdfQ==
 -->
