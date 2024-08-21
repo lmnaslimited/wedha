@@ -30,36 +30,6 @@ HTML **(HyperText Markup Language)** is the standard language used to create and
 -   `<h1>`: Defines a large heading.
 -   `<p>`: Defines a paragraph.
 
-## **What is an HTML Element?**
-
-The HTML element is everything from the start tag to the end tag.
-
-```html
-<tagname>Content goes here...</tagname>
-```
-**Examples of Some HTML Elements** 
-
-```html
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-```
-
--   **Start tag**: `<h1>`
--   **Content**: `My First Heading`
--   **End tag**: `</h1>`
-
-## **Empty Element**
-Elements Some HTML elements do not have content and are called empty elements. They do not have an end tag. 
-
-**Example of an empty element:** 
-```html
- <br>
- ```
-
-## **Remember**
-
--   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
--   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 
 ## Test Yourself With Exercises
 
@@ -71,6 +41,7 @@ Insert the correct end tag for the HTML heading.
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NjM4NjE2LC02NzEzNjI1MTgsLTMzNz
-UxMTg5OCwtMTMxNjE3MTcwNCwtNDc1ODU0ODFdfQ==
+eyJoaXN0b3J5IjpbMjMyMjEyNjQyLDI3OTYzODYxNiwtNjcxMz
+YyNTE4LC0zMzc1MTE4OTgsLTEzMTYxNzE3MDQsLTQ3NTg1NDgx
+XX0=
 -->
