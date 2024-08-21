@@ -8,11 +8,9 @@
 
 	Create a new file named `File_name.cy.js`.
     
-2.  Open Cypress for the first time to create the default folder structure:
-    
-	```bash
-	npx cypress open
-	```
+2. **Write the Test Code**:
+	Open `File_name.cy.js` in your code editor and add the following code:
+
  3. **Create a New Spec File**
 
 - Your test files (specs) will go inside the `cypress/e2e` folder .
@@ -60,5 +58,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTAzOTkwNiwtMTg2NDYwOTU1XX0=
+eyJoaXN0b3J5IjpbLTg1MzYxMjcwMiwtMTg2NDYwOTU1XX0=
 -->
