@@ -32,8 +32,10 @@ Cypress offers various assertion functions to validate different aspects of your
 	// Asserts that there are exactly 3 elements with the class "list-item"
 	```
 
+## **Common assertions used with `and()`** :
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4ODE2NzQ5LDE2MDY3Mjg2NjIsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTEwMjQ2OTM2OCwzNzg4MTY3NDksMTYwNj
+cyODY2MiwtMjA4ODc0NjYxMl19
 -->
