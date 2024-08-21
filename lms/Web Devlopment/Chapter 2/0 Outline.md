@@ -33,11 +33,11 @@ Learn how to create and format tables with HTML tags such as `<table>`, `<tr>`, 
 
 Get familiar with HTML forms and their elements, including `<form>`, `<input>`, `<textarea>`, and `<button>`. Understand their attributes and methods.
 
-## **Lesson : How to Link Multiple HTML Pages**
+## **Lesson 8: How to Link Multiple HTML Pages**
 
 Discover how to create hyperlinks to navigate between multiple HTML pages.
 
-## **Lesson 10: HTML Entities**
+## **Lesson 9: HTML Entities**
 
 Use HTML entities for special characters such as `&nbsp;`, `&copy;`, `&amp;`, etc.
 
@@ -60,6 +60,6 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjQyMjQyOSwxODU4MDEyNTExLDUzMj
-QyMDI0LDEzMDY5MDI0MjYsLTEzMDQ2MTc3N119
+eyJoaXN0b3J5IjpbLTE4ODk2Mjc1MjMsMTg1ODAxMjUxMSw1Mz
+I0MjAyNCwxMzA2OTAyNDI2LC0xMzA0NjE3NzddfQ==
 -->
