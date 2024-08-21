@@ -11,29 +11,14 @@ Cypress offers various assertion functions to validate different aspects of your
 	```
  2. **should('be.visible')** - Asserts that an element is visible on the page.
 
-
-
--   **Example**:
 	```javascript
-	cy.get('.welcome-message').should('be.visible')  // Asserts that the element with class "welcome-message" is visible
+	cy.get('.welcome-message').should('be.visible') 
+    // Asserts that the element with class "welcome-message" is visible
 	 ```
     
+ 5. **should('have.text', text)**
 
-### 4. **`should('not.be.visible')`**
 
--   **Description**: Asserts that an element is not visible on the page.
--   **Example**:
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.loading-spinner').should('not.be.visible')  // Asserts that the element with class "loading-spinner" is not visible` 
-    
-
-### 5. **`should('have.text', text)`**
-
--   **Description**: Asserts that an element contains the exact specified text.
 -   **Example**:
     
     javascript
@@ -162,6 +147,6 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQzMDQyNjAsMTYwNjcyODY2MiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTI4MjY3MTY4MiwxNjA2NzI4NjYyLC0yMD
+g4NzQ2NjEyXX0=
 -->
