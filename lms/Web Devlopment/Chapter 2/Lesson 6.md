@@ -45,12 +45,21 @@ Description list is a list of terms, with a description of each term.
     <!-- Add more terms and descriptions as needed -->
 </dl>
 ```
+## **List Elements**
 
-### **List Elements**
+-   **`<ul>`**: Defines an unordered list.
+-   **`<ol>`**: Defines an ordered list.
 -   **`<li>`**: Defines a list item.
+-   **`<dl>`**: Defines a description list.
+-   **`<dt>`**: Defines a term in a description list.
+-   **`<dd>`**: Defines a description for the term.
+
+## **Main Attributes**
+
 -   **`type`**: Use the HTML `type` attribute to define the numbering type in ordered lists.
-- **`list-style-type`**: Use the CSS `list-style-type` property to define the list item marker.
+-   **`list-style-type`**: Use the CSS `list-style-type` property to define the list item marker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg4NjYwMDIsLTE0Mjk2MDYzNTksMT
-EyMTE4ODg5OCwtNzE4NzM5NzQxLDY0NTA0MzUxM119
+eyJoaXN0b3J5IjpbLTc5NDQzNzM3MCwtMTE2ODg2NjAwMiwtMT
+QyOTYwNjM1OSwxMTIxMTg4ODk4LC03MTg3Mzk3NDEsNjQ1MDQz
+NTEzXX0=
 -->
