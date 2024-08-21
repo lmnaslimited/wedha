@@ -1,8 +1,6 @@
 ## **Common assertions used with `except()`** :
 
-The `expect()` function in Cypress is used for making assertions in a more flexible and expressive way, allowing for custom or complex conditions. Here are some examples of assertions using `expect()`:
-
-
+The `expect()` function in Cypress is used for making assertions in a more flexible and expressive way, allowing for custom or complex conditions. 
 1.  **Verify the Text Content of an Element**
 	 ```javascript
 	cy.get('.message').then($message => {
@@ -11,7 +9,7 @@ The `expect()` function in Cypress is used for making assertions in a more flexi
 	 // Asserts that the element contains the text "Success"
 	```
     
-3.  **Assert an Element's Attribute Value**
+2. **Assert an Element's Attribute Value**
 	```javascript
 	cy.get('input[name="email"]').then($input => {
 	expect($input).to.have.attr('placeholder', 'Enter your email')  
@@ -124,5 +122,5 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3OTU0ODA3LDE0MjQ3MDQ5MDZdfQ==
+eyJoaXN0b3J5IjpbNzc2OTk5NzIzLDE0MjQ3MDQ5MDZdfQ==
 -->
