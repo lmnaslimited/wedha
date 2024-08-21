@@ -9,7 +9,7 @@ We are going to explore assertions in Cypress, which verify that elements and va
 
 ### Lesson 2 : Syntax for assertions 
 
-We are going to Install Node.js, navigate to your project directory, run the cypress commands to install the testing tool.
+We are going to explore how to write assertions in Cypress, understand the structure of different assertion functions, a
 
 ### Lesson 3 :Common assertions used with `should()` and `and()` 
 
@@ -35,7 +35,7 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MzY2OTkzLC0xMDExMzQ4NTA5LC0xMT
-M5NDA3NTY1LC0xOTY2Mjk2ODcsLTg1NTI3NzQyLC0xOTEyNDQx
-MzgyXX0=
+eyJoaXN0b3J5IjpbNTE3NDAxNTQ2LDk2ODM2Njk5MywtMTAxMT
+M0ODUwOSwtMTEzOTQwNzU2NSwtMTk2NjI5Njg3LC04NTUyNzc0
+MiwtMTkxMjQ0MTM4Ml19
 -->
