@@ -10,17 +10,28 @@
     
 2. **Write the Test Code**:
 	Open `File_name.cy.js` in your code editor and add the following code:
+```javascript
+describe('Example Test Suite', () => {
+  it('Test 1: Verifies the title of the page', () => {
+    // Visit the example Cypress page
+    cy.visit('https://example.cypress.io/')
+    
+    // Verify the title of the page
+    cy.title().should('eq', 'Cypress.io: Kitchen Sink')
+  })
 
- 3. **Create a New Spec File**
-
-- Your test files (specs) will go inside the `cypress/e2e` folder .
-- Create a new JavaScript file in the appropriate folder. 
-
-   **For Example:**
-	```bash
-	File_name.cy.js
-	```
-4.  Even though we haven't written any code yet - that's okay - let's click on your new spec and watch Cypress launch it. Cypress will visit `https://example.cypress.io` and the test passes.
+  it('Test 2: Verifies a button click', () => {
+    // Visit the example Cypress page
+    cy.visit('https://example.cypress.io/')
+    
+    // Find the "get" button and click it
+    cy.contains('get').click()
+    
+    // Verify the button text after clicking
+    cy.get('.query-btn').should('contain.text', 'Button')
+  })
+})
+```
 
 **Practice 2**
 
@@ -58,5 +69,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzYxMjcwMiwtMTg2NDYwOTU1XX0=
+eyJoaXN0b3J5IjpbMTEyNDg0NTYwMSwtMTg2NDYwOTU1XX0=
 -->
