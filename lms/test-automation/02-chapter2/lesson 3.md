@@ -50,7 +50,7 @@ Here are some common assertions used with `and()`:
 	    // Asserts that the input has the placeholder "Enter your name" and is empty
 	 ```
 	 
-4.  **Combining Enabled/Disabled State**
+3. **Combining Enabled/Disabled State**
     
     ```javascript
     cy.get('button.submit')
@@ -59,7 +59,7 @@ Here are some common assertions used with `and()`:
       // Asserts that the submit button is enabled and has the text "Submit" 
     ```
     
-5.  **Combining Check State and Visibility**
+4.  **Combining Check State and Visibility**
     
     ```javascript
     cy.get('input[type="checkbox"]')
@@ -68,7 +68,7 @@ Here are some common assertions used with `and()`:
       // Asserts that the checkbox is checked and visible
     ```
     
-6.  **Combining Element Existence and Attribute**
+5.  **Combining Element Existence and Attribute**
     
     ```javascript
     cy.get('.alert')
@@ -79,6 +79,6 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjk3NDE1NywyMTM3ODk2Nzg2LDM3OD
-gxNjc0OSwxNjA2NzI4NjYyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExMjY5MDMwMjgsMjEzNzg5Njc4NiwzNz
+g4MTY3NDksMTYwNjcyODY2MiwtMjA4ODc0NjYxMl19
 -->
