@@ -8,17 +8,17 @@ Welcome to **Cypress!** In this lesson, we will explore the foundational concept
 
 We are going to explore assertions in Cypress, which verify that elements and values in your application meet expected conditions.
 
-### Lesson 2 : Syntax for assertions 
+### Lesson 2 : Syntax for Assertions 
 
 We are going to explore how to write assertions in Cypress, understand the structure of different assertion functions.
 
 ### Lesson 3 :Common assertions used with `should()` and `and()` 
 
-Get ready to uncover how these commands can streamline your testing process and enhance your productivity.
+In this lesson, we'll dive into the powerful assertions you can use with `should()` and `and()`.
 
 ### Lesson 4 :Common assertions used with `except()`
 
-We’ll focus on how to navigate to a specific website using Cypress and explore the essential commands involved. This is a fundamental aspect of writing end-to-end tests.
+
 
 ### Lesson 5 : Quiz on Cypress Commands
 
@@ -36,7 +36,7 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU0NzU4OSw5NjgzNjY5OTMsLTEwMT
+eyJoaXN0b3J5IjpbLTQ4NDExMDE0Niw5NjgzNjY5OTMsLTEwMT
 EzNDg1MDksLTExMzk0MDc1NjUsLTE5NjYyOTY4NywtODU1Mjc3
 NDIsLTE5MTI0NDEzODJdfQ==
 -->
