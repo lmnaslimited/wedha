@@ -21,13 +21,24 @@ An unordered list is a collection of items that do not have a specific order. Th
 An ordered list is a collection of items that are presented in a specific sequence. The list items are typically marked with numbers or letters.
 
 ### **Basic Structure:**
+```html
 <ol>
     <li>First Item</li>
     <li>Second Item</li>
     <li>Third Item</li>
 </ol>
+```
 
+## **HTML Description Lists**
+
+Description lists are used to present terms and their descriptions.
+
+### **Key Elements**
+
+-   **`<dl>`**: Defines a description list.
+-   **`<dt>`**: Defines a term in the description list.
+-   **`<dd>`**: Defines a description for the term.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MDQzNTEzXX0=
+eyJoaXN0b3J5IjpbMTYxNDA2OTcwLDY0NTA0MzUxM119
 -->
