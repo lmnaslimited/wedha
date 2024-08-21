@@ -24,7 +24,7 @@ Learn core HTML tags for structuring web pages, including headings, paragraphs, 
 
 Understand the HTML boilerplate code and its significance in creating a well-structured document.
 
-## **Lesson 6: Lists**
+## **Lesson 6: HTML Lists**
 
 Learn how to create ordered and unordered lists using `<ol>` and `<ul>`, and how to style list items with `<li>`.
 
@@ -59,7 +59,7 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTQ1MDc4NCwzMzEwMTYyODQsLTE4OD
-k2Mjc1MjMsMTg1ODAxMjUxMSw1MzI0MjAyNCwxMzA2OTAyNDI2
-LC0xMzA0NjE3NzddfQ==
+eyJoaXN0b3J5IjpbLTE3NjU4MTM1NjMsMzMxMDE2Mjg0LC0xOD
+g5NjI3NTIzLDE4NTgwMTI1MTEsNTMyNDIwMjQsMTMwNjkwMjQy
+NiwtMTMwNDYxNzc3XX0=
 -->
