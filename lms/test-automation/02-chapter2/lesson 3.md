@@ -1,5 +1,3 @@
-## Syntax for assertions 
-Cypress offers various assertion functions to validate different aspects of your application. Here are some common ones and their syntax:
 ## **Common assertions used with `should()`** :
 
 1. **should('exist')** -  Asserts that an element exists in the DOM.
@@ -26,11 +24,7 @@ Cypress offers various assertion functions to validate different aspects of your
 	cy.get('input[name="username"]').should('have.value', 'user123')  
 	// Asserts that the input has the value "user123" 
 	```
-5. **should('have.length', length)**- Asserts that a set of elements has a specific number of items.
-	``` javascript
-	cy.get('.list-item').should('have.length', 3) 
-	// Asserts that there are exactly 3 elements with the class "list-item"
-	```
+
 
 ## **Common assertions used with `and()`** :
 
@@ -85,6 +79,6 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ0MjgyOTksMjEzNzg5Njc4NiwzNz
-g4MTY3NDksMTYwNjcyODY2MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTEzNjk3NDE1NywyMTM3ODk2Nzg2LDM3OD
+gxNjc0OSwxNjA2NzI4NjYyLC0yMDg4NzQ2NjEyXX0=
 -->
