@@ -32,9 +32,8 @@ Assertions in Cypress are used to verify that certain conditions are true during
 -   **Purpose**: To write assertions in a more flexible and expressive way.
 
 	```javascript
-	cy.get('.header').then($header => {
-	  expect($header).to.have.class('active')  // Asserts that the header has the class "active"
-	})
+	cy.get('.header').then($header => { expect($header).to.have.class('active')  
+	}) // Asserts that the header has the class "active"
 	```
 
 ### assert( )
@@ -44,8 +43,7 @@ Assertions in Cypress are used to verify that certain conditions are true during
 
 
 	```javascript
-	cy.get('.header').then($header => {assert.equal($header.text(), 'Welcome', 'Header text is "Welcome"')  // Asserts that the header text is exactly "Welcome"
-	})
+	cy.get('.header').then($header => {assert.equal($header.text(), 'Welcome', 'Header text is "Welcome"')}) // Asserts that the header text is exactly "Welcome"
 	```
 
 
@@ -57,5 +55,5 @@ Assertions in Cypress are used to verify that certain conditions are true during
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDQ0OTkxMF19
+eyJoaXN0b3J5IjpbLTUyMTY2Njk2XX0=
 -->
