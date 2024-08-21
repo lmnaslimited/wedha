@@ -9,14 +9,15 @@ In this lesson, you’ll learn how to write HTML code in VS Code, preview it in 
     -   Create a new file and save it with a `.html` extension (e.g., `index.html`).
     -   Start writing your HTML code inside this file.
    
-**Note**: Install the HTML extension in VS Code for better support.
+**Note**: Install the HTML extension in VS Code for better support. If it's not installed, refer to Chapter 1, Lesson 5 for installation instructions.
 
 ## **2. Previewing with Live Server**
 
 -   **Live Preview**:
     -   Use the Live Server extension in VS Code to view your HTML page in a browser as you code.
     -   **Steps**: Right-click on your HTML file in VS Code and select "Open with Live Server."
-    -   **Note**: If Live Server isn’t installed, refer to Chapter 1, Lesson 5 for installation instructions.
+
+**Note**: If Live Server isn’t installed, refer to Chapter 1, Lesson 5 for installation instructions.
 
 ## **3. Checking Browser Compatibility**
 
@@ -32,5 +33,6 @@ In this lesson, you’ll learn how to write HTML code in VS Code, preview it in 
     -   Syntax: `<!-- Comment -->`
     -   **Purpose**: Use comments to document sections of your HTML code, making it easier to understand and maintain.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDAyOTYyNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2Mzc5ODQwNjAsLTIwODg3NDY2MTJdfQ
+==
 -->
