@@ -1,5 +1,6 @@
 ## Syntax for assertions 
 Cypress offers various assertion functions to validate different aspects of your application. Here are some common ones and their syntax:
+Common assertions used with `should()`:**
 
 ### 1. **should('exist')**
 
@@ -179,6 +180,5 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTczODA2NDYsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbNDM3MzkwNDc3LC0yMDg4NzQ2NjEyXX0=
 -->
