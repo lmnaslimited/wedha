@@ -4,6 +4,21 @@
 
 An HTML tag is an element used to structure content on a web page. It consists of a start tag and an end tag, enclosing the content.
 
+## **HTML Attributes**
+
+Attributes provide additional information about HTML elements. They are placed inside the start tag of an element and come in name-value pairs.
+
+**Syntax**: `<tagname attribute="value">`
+
+**Key Points**:
+- **Name**: The name of the attribute (e.g., `href`, `src`, `alt`).
+- **Value**: The value assigned to the attribute (e.g., `"https://www.example.com"`, `"image description"`).
+
+**Example:**
+```html
+<a href="https://www.example.com" target="_blank">Visit Example</a>
+```
+
 ## **Some Basic Tags**
 
 ### **1. Headings**
@@ -71,5 +86,5 @@ The `<img>` tag is used to embed images in a web page.
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyOTAzNTI0XX0=
+eyJoaXN0b3J5IjpbMTUzNzIyNTUzNyw4MDI5MDM1MjRdfQ==
 -->
