@@ -33,10 +33,11 @@
 	})
 	```
 3. **Run the Tests**:
-Ensure Cypress is open
+  - Ensure Cypress is open
 	```bash
 	npx cypress open
 	```
+- In the Cypress Test Runner, you should see `File_name.cy.js` listed. Click on the file to run the tests.
 
 
 **Practice 2**
@@ -75,5 +76,5 @@ Ensure Cypress is open
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAxOTAzMDMsLTE4NjQ2MDk1NV19
+eyJoaXN0b3J5IjpbLTQ2NjkzNDczMywtMTg2NDYwOTU1XX0=
 -->
