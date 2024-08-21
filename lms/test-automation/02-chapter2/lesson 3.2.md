@@ -38,58 +38,13 @@ The `expect()` function in Cypress is used for making assertions in a more flexi
 	expect($alert).to.contain.text('Error')  // Asserts that the alert contains the text "Error"
 	 })
 	 ```
-## **Common assertions used with `assert()`** :
 
-The `and()` function in Cypress is used to chain multiple assertions on the same subject. It allows you to perform additional checks or validations in a more readable and concise manner.
 
-Here are some common assertions used with `and()`:
 
-### Common Assertions with `and()`
-
-1.  **Combining Visibility and Text Content**
-	``` javascript
-	 cy.get('.header')
-	   .should('be.visible')
-	   .and('contain.text', 'Welcome')  // Asserts that the header is visible and contains the text "Welcome"
-	```
-	
-2.  **Combining Attribute Checks**
-
-	```javascript
-	  cy.get('input[type="text"]')
-	    .should('have.attr', 'placeholder', 'Enter your name')
-	    .and('have.value', '')  
-	    // Asserts that the input has the placeholder "Enter your name" and is empty
-	 ```
-	 
-4.  **Combining Enabled/Disabled State**
-    
-    ```javascript
-    cy.get('button.submit')
-      .should('be.enabled')
-      .and('have.text', 'Submit')  
-      // Asserts that the submit button is enabled and has the text "Submit" 
-    ```
-    
-5.  **Combining Check State and Visibility**
-    
-    ```javascript
-    cy.get('input[type="checkbox"]')
-      .should('be.checked')
-      .and('be.visible')  
-      // Asserts that the checkbox is checked and visible
-    ```
-    
-6.  **Combining Element Existence and Attribute**
-    
-    ```javascript
-    cy.get('.alert')
-      .should('exist')
-      .and('have.attr', 'role', 'alert') 
-      // Asserts that the alert element exists and has the role attribute set to "alert" 
-    ```
+## quiz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNDc3ODkzLDE0MjQ3MDQ5MDZdfQ==
+eyJoaXN0b3J5IjpbLTkxMjYxNTU3MSw5ODM0Nzc4OTMsMTQyND
+cwNDkwNl19
 -->
