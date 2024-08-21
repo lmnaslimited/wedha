@@ -1,11 +1,11 @@
 
 # Core Concepts and Customization
 
-Let's ex
+Let's explore **API's** and Creating Reports.
 
 ## Lesson Structure
 
-### Lesson 1 : Introduction to LENS
+### Lesson 1 : Client Scripts
 
 Get familiar with LENS architecture, core components, and basic concepts.
 
@@ -33,5 +33,5 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDI2MDY3MiwxMzE4OTg3ODMzXX0=
+eyJoaXN0b3J5IjpbMTc4NzU2NDI1MywxMzE4OTg3ODMzXX0=
 -->
