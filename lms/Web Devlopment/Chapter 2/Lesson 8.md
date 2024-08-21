@@ -38,7 +38,7 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 -   **`id`**: Unique identifier for the form element, useful for linking labels to form controls.
 -   **`type`**: Specifies the input field type (e.g., `text`, `email`, `submit`).
 -   **`required`**: Makes the input field mandatory to fill before submitting the form.
-- -   **`value`**: Defines the default value for an input field.
+-   **`value`**: Defines the default value for an input field.
 -   **`action`**: Specifies where to send the form data when the form is submitted.
 -   **`method`**: Specifies the HTTP method (`get` or `post`) used to send data.
 -   **`placeholder`**: Provides a hint or example text inside the input field.
@@ -46,6 +46,6 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NTg0OTIwLDE4NTM1MTQ0OTksNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbOTMyNTc0MTMsMTg1MzUxNDQ5OSw3MzA5OT
+gxMTZdfQ==
 -->
