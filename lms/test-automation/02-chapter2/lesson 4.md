@@ -1,6 +1,6 @@
 **Practice 1**
 
-**Objective:**  Create a new spec in Cypress using JavaScript.
+**Objective:** Create a Test File with Two Separate **it**  Blocks
 
 **Steps:**
 
@@ -58,5 +58,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ2MDk1NV19
+eyJoaXN0b3J5IjpbLTE2MDY0NTg5NzEsLTE4NjQ2MDk1NV19
 -->
