@@ -39,6 +39,18 @@ Description lists are used to present terms and their descriptions.
 -   **`<dt>`**: Defines a term in the description list.
 -   **`<dd>`**: Defines a description for the term.
 
+### **Basic Structure:**
+```html
+<dl>
+    <dt>Term 1</dt>
+    <dd>Description for Term 1.</dd>
+    
+    <dt>Term 2</dt>
+    <dd>Description for Term 2.</dd>
+    
+    <!-- Add more terms and descriptions as needed -->
+</dl>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDA2OTcwLDY0NTA0MzUxM119
+eyJoaXN0b3J5IjpbLTcxODczOTc0MSw2NDUwNDM1MTNdfQ==
 -->
