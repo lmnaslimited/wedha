@@ -35,7 +35,8 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 -   **`id`**: Unique identifier for the form element.
 -   **`rows`**: Number of visible lines in a `<textarea>`.
 -   **`cols`**: Number of visible characters in a `<textarea>`.
+- **`placeholder`**: Provides a hint or example text inside the input field.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU3Mzk3NjUsMTg1MzUxNDQ5OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTIzMzkxNzI1NiwxODUzNTE0NDk5LDczMD
+k5ODExNl19
 -->
