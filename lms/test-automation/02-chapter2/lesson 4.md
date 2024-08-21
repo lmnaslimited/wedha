@@ -6,7 +6,7 @@
 
 1. **Create the Test File** :
 
-	Create a new file named `File_name.cy.js`
+	Create a new file named `File_name.cy.js` under e2e 
     
 2. **Write the Test Code** :
 	Open `File_name.cy.js` in your code editor and add the following code:
@@ -42,6 +42,6 @@
 -   After running the tests, you'll see detailed results in the Cypress Test Runner. Each test (`it` block) will have passed or failed based on the assertions.
 -   If any of the tests fail, Cypress will provide detailed information about what went wrong, allowing you to debug and fix the issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MTU3MjE0LC00NjY5MzQ3MzMsLTE4Nj
-Q2MDk1NV19
+eyJoaXN0b3J5IjpbLTE3NjYwNjAyMzAsLTQ2NjkzNDczMywtMT
+g2NDYwOTU1XX0=
 -->
