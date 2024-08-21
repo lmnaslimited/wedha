@@ -38,43 +38,10 @@
 	npx cypress open
 	```
 - In the Cypress Test Runner, you should see `File_name.cy.js` listed. Click on the file to run the tests.
-
-
-**Practice 2**
-
-**Objective:** Write a basic test to open a demolens and login.
-
-**Steps:**
-
-1.  Create a new test file in the **cypress/e2e** directory:
-    
-    ```bash
-    test1.cy.js
-    ```
-    
-2.  Open **test1.cy.js** in your code editor and add the following code:
-    
-
-	 ```javascript
-	describe('template spec', () => {
-	it('passes', () => {
-	cy.visit('https://demolens.lmnas.com/login#login');
-    cy.get('#login_email').click()
-    cy.get('#login_email').type('example@lmnas.com')
-    cy.get('#login_password').type('xxxxxxxx')
-    cy.get('.for-login > .login-content > .form-signin > .page-card-actions > .btn').click()
-	})
-	})
-	```
-
-    This script visits a demolens and login to the lens.
-
-**Hints:**
-
--   Use `cy.visit()` to navigate to a URL.
--   Use `cy.get()` to select DOM elements and perform assertions on them.
-
-
+4. **Review the Results**
+-   After running the tests, you'll see detailed results in the Cypress Test Runner. Each test (`it` block) will have passed or failed based on the assertions.
+-   If any of the tests fail, Cypress will provide detailed information about what went wrong, allowing you to debug and fix the issues.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjkzNDczMywtMTg2NDYwOTU1XX0=
+eyJoaXN0b3J5IjpbMTMxMDA4NTY4NiwtNDY2OTM0NzMzLC0xOD
+Y0NjA5NTVdfQ==
 -->
