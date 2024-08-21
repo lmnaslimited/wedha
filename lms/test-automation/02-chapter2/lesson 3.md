@@ -47,31 +47,32 @@ Here are some common assertions used with `and()`:
 	   .and('contain.text', 'Welcome')  // Asserts that the header is visible and contains the text "Welcome"
 	```
 2.  **Combining Attribute Checks**
+
 	```javascript
 	  cy.get('input[type="text"]')
 	    .should('have.attr', 'placeholder', 'Enter your name')
-	    .and('have.value', '')  // Asserts that the input has the placeholder "Enter your name" and is empty
+	    .and('have.value', '')  
+	    // Asserts that the input has the placeholder "Enter your name" and is empty
 	 ```
+	 
 4.  **Combining Enabled/Disabled State**
     
-    javascript
-    
-    Copy code
-    
-    `cy.get('button.submit')
+    ```javascript
+    cy.get('button.submit')
       .should('be.enabled')
-      .and('have.text', 'Submit')  // Asserts that the submit button is enabled and has the text "Submit"` 
-    
+      .and('have.text', 'Submit')  
+      // Asserts that the submit button is enabled and has the text "Submit" 
+    ```
 5.  **Combining Check State and Visibility**
     
-    javascript
+    ```javascript
     
     Copy code
     
     `cy.get('input[type="checkbox"]')
       .should('be.checked')
       .and('be.visible')  // Asserts that the checkbox is checked and visible` 
-    
+    ```
 6.  **Combining Element Existence and Attribute**
     
     javascript
@@ -85,6 +86,6 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODIyNjg3LDIxMzc4OTY3ODYsMzc4OD
-E2NzQ5LDE2MDY3Mjg2NjIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTM3MTI0MDg0MSwyMTM3ODk2Nzg2LDM3OD
+gxNjc0OSwxNjA2NzI4NjYyLC0yMDg4NzQ2NjEyXX0=
 -->
