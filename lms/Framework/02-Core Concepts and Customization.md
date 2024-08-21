@@ -13,9 +13,9 @@ Client Scripts in LENS allow you to control the front-end behavior of forms usin
 
 Server Scripts in LENS allow you to execute Python code on the server side.
 
-### Lesson 3 : What is DocType
+### Lesson 3 : Reports
 
-Learn about creating a new DocType and customizing an existing one.
+Learn how to create standard and custom reports.
 
 ### Lesson 4 : Test Your Knowledge
 
@@ -33,5 +33,5 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTI1ODMxMiwxMzE4OTg3ODMzXX0=
+eyJoaXN0b3J5IjpbMTA1Mjc0ODQwNCwxMzE4OTg3ODMzXX0=
 -->
