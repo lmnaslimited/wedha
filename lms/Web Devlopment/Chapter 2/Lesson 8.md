@@ -20,8 +20,22 @@ HTML forms are used to collect user input and submit data to a server. Forms are
     <button type="submit">Submit</button>
 </form>
 ```
+## **Form Elements**
 
+-   **`<form>`**: Defines the form.
+-   **`<input>`**: Defines an input field.
+-   **`<textarea>`**: Defines a multi-line text input.
+-   **`<button>`**: Defines a clickable button.
+
+## **Main Attributes**
+-   **`action`**: URL where form data is sent.
+-   **`method`**: HTTP method (`get` or `post`) used to send data.
+-   **`type`**: Specifies the input field type (e.g., `text`, `email`, `submit`).
+-   **`name`**: Name of the input field used for form data.
+-   **`id`**: Unique identifier for the form element.
+-   **`rows`**: Number of visible lines in a `<textarea>`.
+-   **`cols`**: Number of visible characters in a `<textarea>`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzQ3NTIyMCwxODUzNTE0NDk5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTEwNjU3Mzk3NjUsMTg1MzUxNDQ5OSw3Mz
+A5OTgxMTZdfQ==
 -->
