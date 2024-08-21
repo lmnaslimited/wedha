@@ -29,7 +29,7 @@ HTML boilerplate is a basic structure that serves as the foundation for creating
     -   **`<meta name="viewport" content="width=device-width, initial-scale=1.0">`**: Ensures responsive design on mobile devices.
     -   **`<title>`**: Defines the title of the document.
     -   **`<link rel="stylesheet" href="styles.css">`**: Links to an external CSS file.
-4.  **`<body>`**: Contains the content of the document.
+4.  **`<body>`**: Contains the visible content of the document, such as text, images, and links. This is what users see on the webpage.
 
 ## **Significance of the Boilerplate**
 
@@ -37,6 +37,15 @@ HTML boilerplate is a basic structure that serves as the foundation for creating
 -   **Cross-Browser Compatibility**: Ensures proper rendering across different browsers.
 -   **Responsive Design**: Facilitates layouts that adapt to various screen sizes.
 -   **Separation of Concerns**: Distinguishes HTML structure from CSS and JavaScript for easier maintenance.
+
+## **VS Code Shortcut**
+
+To quickly add the HTML boilerplate code in Visual Studio Code, use the following shortcut:
+
+1.  Open a new file or an existing HTML file.
+2.  Type `!` and press `Tab` or `Enter`.
+
+This will automatically generate the basic HTML boilerplate code for you, speeding up your workflow.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MTE4NDc0XX0=
+eyJoaXN0b3J5IjpbMjA2NDk4MzE5OF19
 -->
