@@ -7,9 +7,9 @@ Let's explore **API's** and Creating Reports.
 
 ### Lesson 1 : Client Scripts
 
-Get familiar with LENS architecture, core components, and basic concepts.
+Client Scripts in LENS Framework allow you to control the front-end behavior of forms using JavaScript.
 
-### Lesson 2 : Users, Roles and Permissions
+### Lesson 2 : Server Scripts
 
 Learn how to create and manage roles and their permissions.
 
@@ -33,5 +33,5 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzU2NDI1MywxMzE4OTg3ODMzXX0=
+eyJoaXN0b3J5IjpbMjAxOTAwMjA1MCwxMzE4OTg3ODMzXX0=
 -->
