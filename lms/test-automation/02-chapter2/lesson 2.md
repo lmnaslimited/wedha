@@ -50,8 +50,8 @@ Assertions in Cypress are used to verify that certain conditions are true during
 # **Key Points**
 -   **Assertions Validate Behavior**: They ensure that elements and values meet expected conditions, confirming that the application functions correctly.
 -   **Chaining Assertions**: Use `and()` to combine multiple checks on the same element or value.
--   **Flexibility with `expect()`**: Allows for more complex and customized assertions.
+-   **Flexibility expect()`**: Allows for more complex and customized assertions.
 -   **Control with `assert()`**: Provides detailed assertion capabilities when needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNDgxODk4LC01MjE2NjY5Nl19
+eyJoaXN0b3J5IjpbMTgxNTMyNTA5MiwtNTIxNjY2OTZdfQ==
 -->
