@@ -31,17 +31,17 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 -   **`<label>`**: Associates a label with a form element, improving accessibility.
 
 ## **Main Attributes**
--   **`action`**: Specifies where to send the form-data when a form is submitted.
--   **`method`**: Specifies HTTP method (`get` or `post`) used to send data.
--   **`type`**: Specifies the input field type (e.g., `text`, `email`, `submit`).
 -   **`name`**: Specifies the name of the form
 -   **`id`**: Unique identifier for the form element.
+- -   **`type`**: Specifies the input field type (e.g., `text`, `email`, `submit`).
+- - **`required`**: Makes the input field mandatory to fill before submitting the form.
+-   **`action`**: Specifies where to send the form-data when a form is submitted.
+-   **`method`**: Specifies HTTP method (`get` or `post`) used to send data.
 - **`placeholder`**: Provides a hint or example text inside the input field.
-- **`required`**: Makes the input field mandatory to fill before submitting the form.
 - **`value`**: Defines the default value for an input field.
 -   **`rows`**: Number of visible lines in a `<textarea>`.
 -   **`cols`**: Number of visible characters in a `<textarea>`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjY3MTU2MSwxODUzNTE0NDk5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbODQyODQyMTQ1LDE4NTM1MTQ0OTksNzMwOT
+k4MTE2XX0=
 -->
