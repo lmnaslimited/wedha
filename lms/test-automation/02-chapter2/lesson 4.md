@@ -32,7 +32,11 @@
 	  })
 	})
 	```
-3.**Run the Tests**:
+3. **Run the Tests**:
+Ensure Cypress is open
+	```bash
+	npx cypress open
+	```
 
 
 **Practice 2**
@@ -71,5 +75,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzUyMjE0NywtMTg2NDYwOTU1XX0=
+eyJoaXN0b3J5IjpbLTE2MzAxOTAzMDMsLTE4NjQ2MDk1NV19
 -->
