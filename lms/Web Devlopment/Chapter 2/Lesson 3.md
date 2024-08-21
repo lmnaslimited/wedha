@@ -36,6 +36,22 @@ The `<p>` tag is used to define a paragraph of text on a web page.
 <p>This is a paragraph of text. It is used to define a block of text on a web page, separated from other elements by some space above and below.</p>
 ```
 
+### **3. Links**
+
+The `<a>` tag is used to create hyperlinks that navigate users to other web pages or resources.
+
+**Tag**: `<a>`
+
+**Main Attributes**:
+
+- **`href`**: Specifies the URL of the page the link goes to.
+- **`target`**: Determines where to open the linked document. Common values are `_blank` (new tab) and `_self` (same tab).
+
+**Example:**
+```html
+<a href="https://www.example.com" target="_blank">Visit Example</a>
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI3NzY0MzhdfQ==
+eyJoaXN0b3J5IjpbLTUyMzYxNTY2OF19
 -->
