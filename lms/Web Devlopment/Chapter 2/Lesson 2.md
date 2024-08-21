@@ -1,7 +1,5 @@
 # **Lesson 2: Writing, Previewing, and Testing HTML**
 
-In this lesson, you’ll learn how to write HTML code in VS Code, preview it in real-time with Live Server, check for browser compatibility, and document your code using comments.
-
 ## **1. Writing HTML Code in VS Code**
 
 -   **Create a New HTML File**:
@@ -44,6 +42,5 @@ In this lesson, you’ll learn how to write HTML code in VS Code, preview it in 
 </main>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc2NTExMzAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjExNTg4OTY3NiwtMjA4ODc0NjYxMl19
 -->
