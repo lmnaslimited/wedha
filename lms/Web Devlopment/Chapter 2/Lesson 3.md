@@ -21,18 +21,16 @@ The HTML element is everything from the start tag to the end tag.
 ## **Empty Element**
 Elements Some HTML elements do not have content and are called empty elements. They do not have an end tag. 
 
-**Example of an empty element:** 
+**Example of Some Empty Element:** 
 
  -  **Line Break (`<br>`):** Inserts a line break in the text.
  - **Horizontal Rule (`<hr>`):** Creates a thematic break or horizontal line.
-
-
-
+ - **Image (`<img>`):** Embeds an image into the document. 
 
 ## **Remember**
 
 -   **Never Skip the End Tag:** Always close your HTML elements with an end tag to ensure proper structure and display.
 -   **HTML is Not Case Sensitive:** HTML tags are not case sensitive. `<h1>` and `<H1>` are treated the same.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNjkwMDQsLTE3NTk2NTU5NzRdfQ==
+eyJoaXN0b3J5IjpbOTAwMjY3OTM3LC0xNzU5NjU1OTc0XX0=
 -->
