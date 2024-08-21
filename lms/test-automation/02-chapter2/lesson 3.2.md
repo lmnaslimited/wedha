@@ -31,16 +31,13 @@ The `expect()` function in Cypress is used for making assertions in a more flexi
 	```
     
 8.  **Assert Multiple Conditions on an Element**
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.alert').then($alert => {
-      expect($alert).to.exist  // Asserts that the alert exists
-      expect($alert).to.have.attr('role', 'alert')  // Asserts that the alert has the attribute "role" set to "alert"
-      expect($alert).to.contain.text('Error')  // Asserts that the alert contains the text "Error"
-    })`
+	```javascript    
+	cy.get('.alert').then($alert => {
+	expect($alert).to.exist  // Asserts that the alert exists
+	expect($alert).to.have.attr('role', 'alert')  // Asserts that the alert has the attribute "role" set to "alert"
+	expect($alert).to.contain.text('Error')  // Asserts that the alert contains the text "Error"
+	 })
+	 ```
 ## **Common assertions used with `assert()`** :
 
 The `and()` function in Cypress is used to chain multiple assertions on the same subject. It allows you to perform additional checks or validations in a more readable and concise manner.
@@ -94,5 +91,5 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjIyNjcxNSwxNDI0NzA0OTA2XX0=
+eyJoaXN0b3J5IjpbOTgzNDc3ODkzLDE0MjQ3MDQ5MDZdfQ==
 -->
