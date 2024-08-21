@@ -44,22 +44,12 @@ Here are some common assertions used with `and()`:
     
     javascript
     
-    Copy code
+
     
     `cy.get('.header')
       .should('be.visible')
       .and('contain.text', 'Welcome')  // Asserts that the header is visible and contains the text "Welcome"` 
-    
-2.  **Combining CSS Classes and Text Content**
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.button')
-      .should('have.class', 'active')
-      .and('contain.text', 'Submit')  // Asserts that the button has the class "active" and contains the text "Submit"` 
-    
+   
 3.  **Combining Attribute Checks**
     
     javascript
@@ -113,6 +103,6 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzg5Njc4NiwzNzg4MTY3NDksMTYwNj
-cyODY2MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTcyMDEwMjI1OSwyMTM3ODk2Nzg2LDM3OD
+gxNjc0OSwxNjA2NzI4NjYyLC0yMDg4NzQ2NjEyXX0=
 -->
