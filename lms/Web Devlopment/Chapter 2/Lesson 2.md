@@ -30,17 +30,20 @@
 -   **Adding Comments**:
     -   Syntax: `<!-- Comment -->`
     -   **Purpose**: Use comments to document sections of your HTML code, making it easier to understand and maintain.
-```html
-<!-- This is a comment explaining the header section -->
-<header>
-    <h1>My Website</h1>
-</header>
 
-<!-- This is a comment explaining the main content section -->
-<main>
-    <p>Welcome to my website!</p>
-</main>
-```
+-	**Example:**
+	```html
+	<!-- This is a comment explaining the header section -->
+	<header>
+	    <h1>My Website</h1>
+	</header>
+
+	<!-- This is a comment explaining the main content section -->
+	<main>
+	    <p>Welcome to my website!</p>
+	</main>
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTg4OTY3NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbODYyMjYzOTk1LDIxMTU4ODk2NzYsLTIwOD
+g3NDY2MTJdfQ==
 -->
