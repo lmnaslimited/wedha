@@ -26,7 +26,9 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 -   **`<input>`**: Defines an input field.
 -   **`<textarea>`**: Defines a multi-line text input.
 -   **`<button>`**: Defines a clickable button.
--  **`<option>`**: Defines an option in a drop-down list
+-   **`<select>`**: Defines a drop-down list.
+-   **`<option>`**: Defines an option in a drop-down list.
+-   **`<label>`**: Associates a label with a form element, improving accessibility.
 
 ## **Main Attributes**
 -   **`action`**: Specifies where to send the form-data when a form is submitted.
@@ -40,6 +42,6 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 -   **`rows`**: Number of visible lines in a `<textarea>`.
 -   **`cols`**: Number of visible characters in a `<textarea>`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODYxMTAzMiwxODUzNTE0NDk5LDczMD
+eyJoaXN0b3J5IjpbMTcwNjY3MTU2MSwxODUzNTE0NDk5LDczMD
 k5ODExNl19
 -->
