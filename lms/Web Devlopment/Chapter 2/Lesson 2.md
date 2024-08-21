@@ -32,7 +32,18 @@ In this lesson, you’ll learn how to write HTML code in VS Code, preview it in 
 -   **Adding Comments**:
     -   Syntax: `<!-- Comment -->`
     -   **Purpose**: Use comments to document sections of your HTML code, making it easier to understand and maintain.
+```html
+<!-- This is a comment explaining the header section -->
+<header>
+    <h1>My Website</h1>
+</header>
+
+<!-- This is a comment explaining the main content section -->
+<main>
+    <p>Welcome to my website!</p>
+</main>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc5ODQwNjAsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE2ODc2NTExMzAsLTIwODg3NDY2MTJdfQ
 ==
 -->
