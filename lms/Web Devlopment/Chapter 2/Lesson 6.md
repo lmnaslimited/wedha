@@ -46,11 +46,11 @@ Description list is a list of terms, with a description of each term.
 </dl>
 ```
 
-### **List Tags and Attributes**
+### **Key List Tags and Attributes****
 -   **`<li>`**: Defines a list item.
 -   **`type`**: Use the HTML `type` attribute to define the numbering type in ordered lists.
 - **`list-style-type`**: Use the CSS `list-style-type` property to define the list item marker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU0NTgzNjUsMTEyMTE4ODg5OCwtNz
-E4NzM5NzQxLDY0NTA0MzUxM119
+eyJoaXN0b3J5IjpbLTcxMTUzNDkwOCwxMTIxMTg4ODk4LC03MT
+g3Mzk3NDEsNjQ1MDQzNTEzXX0=
 -->
