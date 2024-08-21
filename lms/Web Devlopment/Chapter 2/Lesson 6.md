@@ -21,8 +21,13 @@ An unordered list is a collection of items that do not have a specific order. Th
 An ordered list is a collection of items that are presented in a specific sequence. The list items are typically marked with numbers or letters.
 
 ### **Basic Structure:**
+<ol>
+    <li>First Item</li>
+    <li>Second Item</li>
+    <li>Third Item</li>
+</ol>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzE4MjA3OV19
+eyJoaXN0b3J5IjpbNjQ1MDQzNTEzXX0=
 -->
