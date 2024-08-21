@@ -66,6 +66,20 @@ The `<a>` tag is used to create hyperlinks that navigate users to other web page
 ```html
 <a href="https://www.example.com" target="_blank">Visit Example</a>
 ```
+**Relative vs. Absolute URLs**:
+
+-   **Absolute URL**: Provides the full path to a resource, including the protocol (e.g., `https://www.example.com/page.html`).
+-   **Relative URL**: Provides a path relative to the current document (e.g., `page.html` or `folder/page.html`).
+
+**Linking Multiple HTML Pages**: To link multiple HTML pages within a website, use relative URLs. For example:
+
+html
+
+Copy code
+
+`<a href="index.html">Home</a>
+<a href="contact.html">Contact</a>
+<a href="services/index.html">Services</a>`
 
 ### **4. Images**
 
@@ -103,6 +117,6 @@ The `<iframe>` tag is used to embed another HTML document within the current pag
 <iframe src="https://www.example.com" width="600" height="400" frameborder="0" allowfullscreen></iframe>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDkzMzY2ODAsMTUzNzIyNTUzNyw4MD
-I5MDM1MjRdfQ==
+eyJoaXN0b3J5IjpbMTIyNzU3OTk3MywtMTYwOTMzNjY4MCwxNT
+M3MjI1NTM3LDgwMjkwMzUyNF19
 -->
