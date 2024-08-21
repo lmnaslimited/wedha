@@ -11,7 +11,7 @@ We are going to explore assertions in Cypress, which verify that elements and va
 
 We are going to Install Node.js, navigate to your project directory, run the cypress commands to install the testing tool.
 
-### Lesson 3 : Cypress Basic Commands and Their Functionalities
+### Lesson 3 : Common assertions used with `except()` :
 
 Get ready to uncover how these commands can streamline your testing process and enhance your productivity.
 
@@ -35,7 +35,7 @@ Thank you for engaging with this lesson. We look forward to diving deeper in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzEwNzM2NiwtMTAxMTM0ODUwOSwtMT
-EzOTQwNzU2NSwtMTk2NjI5Njg3LC04NTUyNzc0MiwtMTkxMjQ0
-MTM4Ml19
+eyJoaXN0b3J5IjpbLTExOTA1MTIwNjgsLTEwMTEzNDg1MDksLT
+ExMzk0MDc1NjUsLTE5NjYyOTY4NywtODU1Mjc3NDIsLTE5MTI0
+NDEzODJdfQ==
 -->
