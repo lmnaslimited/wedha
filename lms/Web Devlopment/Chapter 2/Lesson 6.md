@@ -16,14 +16,13 @@ An unordered list is a collection of items that do not have a specific order. Th
     <li>Item 3</li>
 </ul>
 ```
-**Example:**
+## **Ordered Lists (`<ol>`)**
 
-<ul>
-    <li>Fruits</li>
-    <li>Vegetables</li>
-    <li>Dairy</li>
-</ul>
+An ordered list is a collection of items that are presented in a specific sequence. The list items are typically marked with numbers or letters.
+
+### **Basic Structure:**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwODc5MjMzXX0=
+eyJoaXN0b3J5IjpbMTgzNzE4MjA3OV19
 -->
