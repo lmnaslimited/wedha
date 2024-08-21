@@ -1,7 +1,7 @@
 
-# **What is Cypress?**
+# **Assertion in Cypress**
 
-Cypress is a popular open-source , end-to-end and UI testing framework that simplifies and speeds up testing. It supports writing tests in JavaScript or TypeScript, eliminates the need for Selenium, and offers a comprehensive environment ideal for evaluating ERP products. Its flexibility and community-driven customization enhance its usability.
+Assertions in Cypress are used to verify that certain conditions are true during a test, ensuring that the application behaves as expected. They help confirm whether elements exist, have the correct text, are visible, or meet other criteria, validating that the actual outcome matches the expected result. Assertions are crucial in automated testing for validating the state of your application and ensuring it functions correctly across different scenarios.
 
 ![enter image description here](https://miro.medium.com/v2/resize:fit:785/1*uBf3SgcGi-I6Sml9aG10kw.png)
 
@@ -36,5 +36,5 @@ View screenshots taken automatically on failure, or videos, if enabled, of your 
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjcxNDQ5NF19
+eyJoaXN0b3J5IjpbLTEwMjA3MTYzMDhdfQ==
 -->
