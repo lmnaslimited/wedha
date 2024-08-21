@@ -52,6 +52,24 @@ The `<a>` tag is used to create hyperlinks that navigate users to other web page
 <a href="https://www.example.com" target="_blank">Visit Example</a>
 ```
 
+### **4. Images**
+
+The `<img>` tag is used to embed images in a web page.
+
+**Tag**: `<img>`
+
+**Main Attributes**:
+
+- **`src`**: Specifies the URL of the image file.
+- **`alt`**: Provides alternative text for the image if it cannot be displayed.
+- **`width`**: Sets the width of the image.
+- **`height`**: Sets the height of the image.
+
+**Example:**
+```html
+<img src="https://www.example.com/image.jpg" alt="Description of Image" width="300" height="200">
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzYxNTY2OF19
+eyJoaXN0b3J5IjpbODAyOTAzNTI0XX0=
 -->
