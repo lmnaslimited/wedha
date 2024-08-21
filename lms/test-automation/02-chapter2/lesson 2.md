@@ -22,13 +22,13 @@ Assertions in Cypress are used to verify that certain conditions are true during
 -   **Description**: `and()` is used to chain multiple assertions on the same subject.
 -   **Purpose**: To perform additional checks on an already asserted element or value.
 
-```javascript
+	```javascript
 	cy.get('.header').should('be.visible').and('contain', 'Welcome')  // Asserts that the element is visible and contains the text "Welcome"
-```
+	```
 
 ### expect( )
 
-Cypress provides a real-time preview of your application and the tests running against it. This helps you see exactly what’s happening during test execution.
+
 
 ### assert( )
 
@@ -44,5 +44,5 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDA0NjAwOF19
+eyJoaXN0b3J5IjpbNTkxNDYxNjYzXX0=
 -->
