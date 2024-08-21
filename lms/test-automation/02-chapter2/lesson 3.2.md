@@ -2,24 +2,14 @@
 
 The `expect()` function in Cypress is used for making assertions in a more flexible and expressive way, allowing for custom or complex conditions. Here are some examples of assertions using `expect()`:
 
-1.  **Check if an Element Has a Specific Class** :
-    
-	``` javascript
-	cy.get('.header').then($header => {
-	expect($header).to.have.class('active')
-	}) 
-	// Asserts that the element has the class "active"
+
+1.  **Verify the Text Content of an Element**
+	 ```javascript
+	cy.get('.message').then($message => {
+	expect($message).to.contain.text('Success') 
+	})
+	 // Asserts that the element contains the text "Success"
 	```
-    
-2.  **Verify the Text Content of an Element**
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.message').then($message => {
-      expect($message).to.contain.text('Success')  // Asserts that the element contains the text "Success"
-    })` 
     
 3.  **Assert an Element's Attribute Value**
     
@@ -135,5 +125,5 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMDAzMjc4LDE0MjQ3MDQ5MDZdfQ==
+eyJoaXN0b3J5IjpbLTIxMjcwNDQ3NjMsMTQyNDcwNDkwNl19
 -->
