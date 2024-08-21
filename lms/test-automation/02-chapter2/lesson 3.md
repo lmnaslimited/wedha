@@ -20,58 +20,10 @@ Cypress offers various assertion functions to validate different aspects of your
 	```javascript
 	cy.get('.login-button').should('have.text', 'Log In') //Asserts that the button has the exact text "Log In"
 	```
-### 6. **`should('contain.text', text)`**
+4. **should('have.value', value)**- Asserts that an input or textarea element has a specific value.
 
--   **Description**: Asserts that an element contains the specified text anywhere within it.
--   **Example**:
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.error-message').should('contain.text', 'Invalid credentials')  // Asserts that the error message contains the text "Invalid credentials"` 
-    
 
-### 7. **`should('have.class', className)`**
 
--   **Description**: Asserts that an element has the specified CSS class.
--   **Example**:
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.nav-item').should('have.class', 'active')  // Asserts that the element has the class "active"` 
-    
-
-### 8. **`should('not.have.class', className)`**
-
--   **Description**: Asserts that an element does not have the specified CSS class.
--   **Example**:
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.nav-item').should('not.have.class', 'disabled')  // Asserts that the element does not have the class "disabled"` 
-    
-
-### 9. **`should('have.attr', attribute, value)`**
-
--   **Description**: Asserts that an element has a specific attribute with a specific value.
--   **Example**:
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('input[type="checkbox"]').should('have.attr', 'checked', 'checked')  // Asserts that the checkbox has the "checked" attribute` 
-    
-
-### 10. **`should('have.value', value)`**
-
--   **Description**: Asserts that an input or textarea element has a specific value.
--   **Example**:
     
     javascript
     
@@ -139,6 +91,6 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDAwODgxMCwxNjA2NzI4NjYyLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzNDg4Mzk3MjMsMTYwNjcyODY2MiwtMj
+A4ODc0NjYxMl19
 -->
