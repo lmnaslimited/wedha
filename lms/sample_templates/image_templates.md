@@ -1,5 +1,5 @@
 
-# What is Cypress?
+# **What is Cypress?**
 
 Cypress is a popular open-source , end-to-end testing framework that simplifies and speeds up testing. It supports writing tests in JavaScript or TypeScript, eliminates the need for Selenium, and offers a comprehensive environment ideal for evaluating ERP products. Its flexibility and community-driven customization enhance its usability.
 
@@ -31,5 +31,5 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 -   Unit Testing.
 -   API Testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDg1MjI5MV19
+eyJoaXN0b3J5IjpbLTY4NDE0NTA5MSwtMzc0ODUyMjkxXX0=
 -->
