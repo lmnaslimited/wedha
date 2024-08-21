@@ -31,12 +31,12 @@ HTML boilerplate is a basic structure that serves as the foundation for creating
     -   **`<link rel="stylesheet" href="styles.css">`**: Links to an external CSS file.
 4.  **`<body>`**: Contains the content of the document.
 
-### **Significance of the Boilerplate**
+## **Significance of the Boilerplate**
 
 -   **Consistency**: Offers a standardized starting point for HTML documents.
 -   **Cross-Browser Compatibility**: Ensures proper rendering across different browsers.
 -   **Responsive Design**: Facilitates layouts that adapt to various screen sizes.
 -   **Separation of Concerns**: Distinguishes HTML structure from CSS and JavaScript for easier maintenance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk4NDYzMDddfQ==
+eyJoaXN0b3J5IjpbNjQ4MTE4NDc0XX0=
 -->
