@@ -28,7 +28,7 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 -   **`<button>`**: Defines a clickable button.
 
 ## **Main Attributes**
--   **`action`**: URL where form data is sent.
+-   **`action`**: Specifies where to send the form-data when a form is submitted.
 -   **`method`**: HTTP method (`get` or `post`) used to send data.
 -   **`type`**: Specifies the input field type (e.g., `text`, `email`, `submit`).
 -   **`name`**: Name of the input field used for form data.
@@ -39,6 +39,6 @@ HTML forms are used to collect user input and submit data to a server. Forms are
 -   **`rows`**: Number of visible lines in a `<textarea>`.
 -   **`cols`**: Number of visible characters in a `<textarea>`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEwMjk4MDYsMTg1MzUxNDQ5OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTAyOTcxMTUzLDE4NTM1MTQ0OTksNzMwOT
+k4MTE2XX0=
 -->
