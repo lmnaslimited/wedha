@@ -13,7 +13,7 @@ Cypress offers various assertion functions to validate different aspects of your
 
 ### 2. **should('be.visible')**
 
--   **Description**: Asserts that an element is visible on the page.
+
 
 -   **Example**:
 	```javascript
@@ -164,5 +164,5 @@ Cypress offers various assertion functions to validate different aspects of your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODQ0OTk1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTYwNjcyODY2MiwtMjA4ODc0NjYxMl19
 -->
