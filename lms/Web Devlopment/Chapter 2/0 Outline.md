@@ -8,6 +8,10 @@ In this chapter, we’ll cover the basics of HTML, which is essential for web de
 
 We'll start by defining HTML, understanding its purpose, and exploring its role in web development.
 
+## **Lesson 2: Writing, Previewing, and Testing HTML**
+
+Learn to write HTML code in VS Code, preview it with Live Server, check browser compatibility, and use comments for documentation.
+
 ## **Lesson 2: Basic Tags and Attributes**
 
 Learn core HTML tags for structuring web pages, including headings, paragraphs, links, images, and lists. Discover how to use attributes like `id`, `class`, and `src` to modify these elements.
@@ -56,6 +60,6 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODAxMjUxMSw1MzI0MjAyNCwxMzA2OT
-AyNDI2LC0xMzA0NjE3NzddfQ==
+eyJoaXN0b3J5IjpbLTUyMDEwNTI3MywxODU4MDEyNTExLDUzMj
+QyMDI0LDEzMDY5MDI0MjYsLTEzMDQ2MTc3N119
 -->
