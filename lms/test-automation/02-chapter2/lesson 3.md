@@ -60,16 +60,7 @@ Here are some common assertions used with `and()`:
       .should('have.attr', 'placeholder', 'Enter your name')
       .and('have.value', '')  // Asserts that the input has the placeholder "Enter your name" and is empty` 
     
-4.  **Combining Element Count and Visibility**
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.list-item')
-      .should('have.length', 5)
-      .and('be.visible')  // Asserts that there are exactly 5 list items and they are visible` 
-    
+
 5.  **Combining Enabled/Disabled State**
     
     javascript
@@ -103,6 +94,6 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDEwMjI1OSwyMTM3ODk2Nzg2LDM3OD
-gxNjc0OSwxNjA2NzI4NjYyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTU4Njc2MjMzLDIxMzc4OTY3ODYsMzc4OD
+E2NzQ5LDE2MDY3Mjg2NjIsLTIwODg3NDY2MTJdfQ==
 -->
