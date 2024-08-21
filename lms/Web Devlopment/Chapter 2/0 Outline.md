@@ -12,13 +12,13 @@ We'll start by defining HTML, understanding its purpose, and exploring its role 
 
 Learn to write HTML code in VS Code, preview it with Live Server, check browser compatibility, and use comments for documentation.
 
-## **Lesson 3: Basic Tags and Attributes**
+## **Lesson 3: Understanding HTML Elements**
+
+Understand different types of HTML elements, including elements with content, empty elements, block-level elements, and inline elements.
+
+## **Lesson 4: Basic Tags and Attributes**
 
 Learn core HTML tags for structuring web pages, including headings, paragraphs, links, and images. Discover how to use attributes to modify these elements.
-
-## **Lesson 4: Block-Level vs. Inline Elements**
-
-Differentiate between block-level elements (e.g., `<div>`, `<h1>`) and inline elements (e.g., `<span>`, `<a>`), and understand their impact on layout.
 
 ## **Lesson 5: HTML Boilerplate**
 
@@ -59,7 +59,7 @@ Develop and integrate a contact form into your portfolio page.
 Great work! 🚀 Let’s keep building!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMDE2Mjg0LC0xODg5NjI3NTIzLDE4NT
-gwMTI1MTEsNTMyNDIwMjQsMTMwNjkwMjQyNiwtMTMwNDYxNzc3
-XX0=
+eyJoaXN0b3J5IjpbMTgyOTQ1MDc4NCwzMzEwMTYyODQsLTE4OD
+k2Mjc1MjMsMTg1ODAxMjUxMSw1MzI0MjAyNCwxMzA2OTAyNDI2
+LC0xMzA0NjE3NzddfQ==
 -->
