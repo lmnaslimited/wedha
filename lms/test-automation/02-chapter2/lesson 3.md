@@ -11,19 +11,8 @@ Cypress offers various assertion functions to validate different aspects of your
 	`cy.get('.navbar').should('exist')  // Asserts that the element with class "navbar" exists in the DOM` 
 	```
 
-### 2. **`should('not.exist')`**
 
--   **Description**: Asserts that an element does not exist in the DOM.
--   **Example**:
-    
-    javascript
-    
-    Copy code
-    
-    `cy.get('.modal').should('not.exist')  // Asserts that the element with class "modal" does not exist in the DOM` 
-    
-
-### 3. **`should('be.visible')`**
+### 2. **should('be.visible')**
 
 -   **Description**: Asserts that an element is visible on the page.
 -   **Example**:
@@ -172,11 +161,12 @@ Cypress offers various assertion functions to validate different aspects of your
 -   **Description**: Asserts that a set of elements has a specific number of items.
 -   **Example**:
     
-   ``` javascript
-    `cy.get('.list-item').should('have.length', 3)  // Asserts that there are exactly 3 elements with the class "list-item"`
- ```
+	``` javascript
+	cy.get('.list-item').should('have.length', 3)  // Asserts that there are exactly 3 elements with the class "list-item"
+	```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTM0MjY4OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3NTc4ODcxNjcsLTIwODg3NDY2MTJdfQ
+==
 -->
