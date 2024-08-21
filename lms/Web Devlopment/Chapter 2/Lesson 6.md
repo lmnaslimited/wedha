@@ -49,9 +49,9 @@ Description lists are used to present terms and their descriptions.
 ### **List Tags and Attributes**
     
 -   **`<li>`**: Defines a list item.
-    
 -   **`type`**: Use the HTML `type` attribute to define the numbering type in ordered lists.
+- **`list-style-type`**: Use the CSS `list-style-type` property to define the list item marker.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDUzMzQ2NSwxMTIxMTg4ODk4LC03MT
-g3Mzk3NDEsNjQ1MDQzNTEzXX0=
+eyJoaXN0b3J5IjpbLTIwOTE2ODIzMTYsMTEyMTE4ODg5OCwtNz
+E4NzM5NzQxLDY0NTA0MzUxM119
 -->
