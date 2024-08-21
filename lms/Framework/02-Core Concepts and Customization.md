@@ -7,11 +7,11 @@ Let's explore **API's** and Creating Reports.
 
 ### Lesson 1 : Client Scripts
 
-Client Scripts in LENS Framework allow you to control the front-end behavior of forms using JavaScript.
+Client Scripts in LENS allow you to control the front-end behavior of forms using JavaScript.
 
 ### Lesson 2 : Server Scripts
 
-Learn how to create and manage roles and their permissions.
+Server Scripts in LENS allow you to execute Python code on the server side.
 
 ### Lesson 3 : What is DocType
 
@@ -33,5 +33,5 @@ Gain practical experience in developing and deploying applications using the LEN
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTAwMjA1MCwxMzE4OTg3ODMzXX0=
+eyJoaXN0b3J5IjpbMTgyMTI1ODMxMiwxMzE4OTg3ODMzXX0=
 -->
