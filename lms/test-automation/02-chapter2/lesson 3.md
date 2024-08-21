@@ -47,13 +47,11 @@ Here are some common assertions used with `and()`:
 	   .and('contain.text', 'Welcome')  // Asserts that the header is visible and contains the text "Welcome"
 	```
 2.  **Combining Attribute Checks**
-```javascript
-  cy.get('input[type="text"]')
-      .should('have.attr', 'placeholder', 'Enter your name')
-      .and('have.value', '')  // Asserts that the input has the placeholder "Enter your name" and is empty
-     
-    
-
+	```javascript
+	  cy.get('input[type="text"]')
+	    .should('have.attr', 'placeholder', 'Enter your name')
+	    .and('have.value', '')  // Asserts that the input has the placeholder "Enter your name" and is empty
+	 ```
 4.  **Combining Enabled/Disabled State**
     
     javascript
@@ -87,6 +85,6 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYxNDk4OTksMjEzNzg5Njc4NiwzNz
-g4MTY3NDksMTYwNjcyODY2MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTE0ODIyNjg3LDIxMzc4OTY3ODYsMzc4OD
+E2NzQ5LDE2MDY3Mjg2NjIsLTIwODg3NDY2MTJdfQ==
 -->
