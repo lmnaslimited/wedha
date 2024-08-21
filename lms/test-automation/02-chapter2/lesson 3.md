@@ -1,4 +1,5 @@
 ## Synatx for assertions 
+Cypress offers various assertion functions to validate different aspects of your application. Here are some common ones and their purposes:
 
 ### 1. **cy.visit()**
 
@@ -78,5 +79,6 @@ cy.get('form').submit()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDI4NjM0MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE1MjcxNDk0NDMsLTIwODg3NDY2MTJdfQ
+==
 -->
