@@ -3,11 +3,11 @@
 The `expect()` function in Cypress is used for making assertions in a more flexible and expressive way, allowing for custom or complex conditions. 
 1.  **Verify the Text Content of an Element**
 	 ```javascript
-	cy.get('.message').then($message => {
-	expect($message).to.contain.text('Success') 
-	})
-	 // Asserts that the element contains the text "Success"
-	```
+cy.get('.message').then($message => {
+expect($message).to.contain.text('Success') 
+})
+// Asserts that the element contains the text "Success"
+```
     
 2. **Assert an Element's Attribute Value**
 	```javascript
@@ -16,12 +16,13 @@ The `expect()` function in Cypress is used for making assertions in a more flexi
 	 })
 	// Asserts that the input has the placeholder "Enter your email"
 	```           
-6.  **Ensure an Input Field is Enabled**
+3.  **Ensure an Input Field is Enabled**
     
-    ```javascript
-  cy.get('button[type="submit"]').then($button => {
-      expect($button).to.be.enabled  // Asserts that the submit button is enabled
-    })` 
+	```javascript
+	cy.get('button[type="submit"]').then($button => {
+	expect($button).to.be.enabled  // Asserts that the submit button is enabled
+	})
+	```
     
 7.  **Check if a Checkbox is Checked**
     
@@ -97,5 +98,5 @@ Here are some common assertions used with `and()`:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3Mjg5NzE3LDE0MjQ3MDQ5MDZdfQ==
+eyJoaXN0b3J5IjpbMjA5MjY2NjM1MCwxNDI0NzA0OTA2XX0=
 -->
