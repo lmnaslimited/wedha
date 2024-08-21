@@ -70,8 +70,8 @@ The `expect()` function in Cypress is used for making assertions in a more flexi
 
 **5. Which of the following correctly uses `expect()` to check that an element has the class "active"?**
 
--   A) cy.get('.header').should('have.class', 'active')
--   B) cy.get('.header').then($header => { expect($header).to.have.class('active') })
+-   A) `cy.get('.header').should('have.class', 'active')`
+-   B) `cy.get('.header').then($header => { expect($header).to.have.class('active') })`
 -   C) `cy.get('.header').and('have.class', 'active')`
 -   D) `cy.get('.header').expect('have.class', 'active')`
 
@@ -109,6 +109,6 @@ The `expect()` function in Cypress is used for making assertions in a more flexi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMjMwNDQ2LC05MTI2MTU1NzEsOTgzND
-c3ODkzLDE0MjQ3MDQ5MDZdfQ==
+eyJoaXN0b3J5IjpbLTgwMTIxMTIwMCwtOTEyNjE1NTcxLDk4Mz
+Q3Nzg5MywxNDI0NzA0OTA2XX0=
 -->
