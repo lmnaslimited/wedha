@@ -6,9 +6,9 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 |  | h |    
 |--|--|
-| h | <img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="50" href="">
+| h | <img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="50" href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd">
  |
-
+[![Edit colour sample](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/colour-sample-c5rjjd)
 
 
 
@@ -151,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MTM4MDY1LC0xMTU4MzE4Nzg1LDE5OD
-g2MDc0NDIsMjEyMzI2OTI3Nl19
+eyJoaXN0b3J5IjpbLTY0MTAxMTk3NiwtMTE1ODMxODc4NSwxOT
+g4NjA3NDQyLDIxMjMyNjkyNzZdfQ==
 -->
