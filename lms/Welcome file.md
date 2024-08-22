@@ -5,13 +5,9 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 ![enter image description here](https://github.com/lmnaslimited/wedha/blob/lms-templates/lms/media/space-7503574.jpg?raw=true)
 
 [![Edit colour sample](https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg)](https://codesandbox.io/p/sandbox/colour-sample-c5rjjd)
-|h  | h | 
-|  |  |
+|h  | h |    
 |--|--|
-|  |  |
- 
-|--|--|
-|  |  |
+| h | h |
 
 
 
@@ -154,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDA0ODM3MSwtMTE1ODMxODc4NSwxOT
-g4NjA3NDQyLDIxMjMyNjkyNzZdfQ==
+eyJoaXN0b3J5IjpbMjQyNDMyODksLTExNTgzMTg3ODUsMTk4OD
+YwNzQ0MiwyMTIzMjY5Mjc2XX0=
 -->
