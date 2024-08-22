@@ -10,17 +10,17 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 | |
 `<h1> This is a simple HTML + CSS template! </h1> 
 ` <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="40"></a>
-
+<div>
 <iframe src="https://codesandbox.io/embed/c5rjjd?view=editor+%2B+preview&module=%2Findex.html&hidenavigation=1&expanddevtools=1"
      style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
      title="colour sample"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+   ></iframe> </div>
 
     enter code here 
 
-<iframe src="https://codesandbox.io/embed/c5rjjd?view=editor+%2B+preview&module=%2Findex.html&hidenavigation=1&expanddevtools=1" style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;" title="colour sample" allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts" ></iframe>
+
 
 # Files
 
@@ -161,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgzOTQxMzMsMTcyOTg0NDczLDE3NT
-c3NjY5MzQsLTExNTgzMTg3ODUsMTk4ODYwNzQ0MiwyMTIzMjY5
-Mjc2XX0=
+eyJoaXN0b3J5IjpbMTE0MjI5NTM3NSwtMjEwODM5NDEzMywxNz
+I5ODQ0NzMsMTc1Nzc2NjkzNCwtMTE1ODMxODc4NSwxOTg4NjA3
+NDQyLDIxMjMyNjkyNzZdfQ==
 -->
