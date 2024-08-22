@@ -10,6 +10,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
  |
 <img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="50" >
 
+[![Edit colour sample](https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg)](https://codesandbox.io/p/sandbox/colour-sample-c5rjjd)
 
 
 # Files
@@ -151,6 +152,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjEyOTQ5NywtMTE1ODMxODc4NSwxOT
+eyJoaXN0b3J5IjpbMTc1Nzc2NjkzNCwtMTE1ODMxODc4NSwxOT
 g4NjA3NDQyLDIxMjMyNjkyNzZdfQ==
 -->
