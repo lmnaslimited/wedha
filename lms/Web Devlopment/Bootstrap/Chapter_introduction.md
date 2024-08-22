@@ -1,8 +1,8 @@
-### 1.1 **What is Bootstrap?**
+### **What is Bootstrap?**
    - **Overview:**  
      Bootstrap is a popular open-source front-end framework for building responsive, mobile-first websites and web applications. Created by Twitter in 2010, it provides a collection of CSS and JavaScript components that help streamline web development.
 
-### 1.2 **Why Use Bootstrap?**
+###  **Why Use Bootstrap?**
    - **Benefits:**
      - **Responsive Design:** Adapts layouts to different screen sizes.
      - **Consistency:** Offers a uniform design across browsers and devices.
@@ -11,7 +11,7 @@
    - **Comparison:**  
      Bootstrap is known for its ease of use and comprehensive component library, making it more accessible than frameworks like Foundation, while offering more out-of-the-box components than Bulma or Tailwind CSS.
 
-Would you like to continue with the "Getting Started" section next?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkzNzY5OTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5NTQyMzAzODQsNzMwOTk4MTE2XX0=
 -->
