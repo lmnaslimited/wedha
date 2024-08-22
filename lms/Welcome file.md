@@ -11,6 +11,12 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 `<h1> This is a simple HTML + CSS template! </h1> 
 ` <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="40"></a>
 
+<iframe src="https://codesandbox.io/embed/c5rjjd?view=editor+%2B+preview&module=%2Findex.html&hidenavigation=1&expanddevtools=1"
+     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="colour sample"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 
     enter code here 
 
@@ -155,6 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTg0NDczLDE3NTc3NjY5MzQsLTExNT
-gzMTg3ODUsMTk4ODYwNzQ0MiwyMTIzMjY5Mjc2XX0=
+eyJoaXN0b3J5IjpbLTI2MjM1OTg2NiwxNzI5ODQ0NzMsMTc1Nz
+c2NjkzNCwtMTE1ODMxODc4NSwxOTg4NjA3NDQyLDIxMjMyNjky
+NzZdfQ==
 -->
