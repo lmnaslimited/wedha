@@ -4,6 +4,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 ![enter image description here](https://github.com/lmnaslimited/wedha/blob/lms-templates/lms/media/space-7503574.jpg?raw=true)
 
+[![Edit colour sample](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/colour-sample-c5rjjd)
 
 
 # Files
@@ -145,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI2OTI3Nl19
+eyJoaXN0b3J5IjpbMTk4ODYwNzQ0MiwyMTIzMjY5Mjc2XX0=
 -->
