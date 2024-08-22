@@ -4,8 +4,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 ![enter image description here](https://github.com/lmnaslimited/wedha/blob/lms-templates/lms/media/space-7503574.jpg?raw=true)
 
-|h  | <img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="50">
- |    
+|  | h |    
 |--|--|
 | h | h |
 
@@ -105,7 +104,7 @@ StackEdit extends the standard Markdown syntax by adding extra **Markdown extens
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |ASCII                          |HTML                         |
+|                |ASCII                          |                        |
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
@@ -151,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzI0NDIwNiwtMTE1ODMxODc4NSwxOT
-g4NjA3NDQyLDIxMjMyNjkyNzZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTI1NDIyNTEsLTExNTgzMTg3ODUsMT
+k4ODYwNzQ0MiwyMTIzMjY5Mjc2XX0=
 -->
