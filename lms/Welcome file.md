@@ -6,8 +6,11 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 |  | <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="40"></a> |    
 |--|--|
-| `<h1> This is a simple HTML + CSS template! </h1> ` 
+| `<h1> This is a simple HTML + CSS template! </h1>  ` <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="40"></a>
 | |
+`<h1> This is a simple HTML + CSS template! </h1>   
+ ` <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="40"></a>
+
 
     enter code here 
 
@@ -152,6 +155,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODU5NzU4NywxNzU3NzY2OTM0LC0xMT
+eyJoaXN0b3J5IjpbMTU1ODM5MTA1MywxNzU3NzY2OTM0LC0xMT
 U4MzE4Nzg1LDE5ODg2MDc0NDIsMjEyMzI2OTI3Nl19
 -->
