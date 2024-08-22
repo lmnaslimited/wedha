@@ -10,7 +10,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 | |
 `<h1> This is a simple HTML + CSS template! </h1> 
 ` <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="40"></a>
-<div>
+<div style="width:100%">
 <iframe src="https://codesandbox.io/embed/c5rjjd?view=editor+%2B+preview&module=%2Findex.html&hidenavigation=1&expanddevtools=1"
      style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
      title="colour sample"
@@ -161,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjI5NTM3NSwtMjEwODM5NDEzMywxNz
+eyJoaXN0b3J5IjpbMTAwMTExMDI3MSwtMjEwODM5NDEzMywxNz
 I5ODQ0NzMsMTc1Nzc2NjkzNCwtMTE1ODMxODc4NSwxOTg4NjA3
 NDQyLDIxMjMyNjkyNzZdfQ==
 -->
