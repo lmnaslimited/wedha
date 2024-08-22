@@ -4,7 +4,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 ![enter image description here](https://github.com/lmnaslimited/wedha/blob/lms-templates/lms/media/space-7503574.jpg?raw=true)
 
-| `<h1>This is a simple HTML + CSS template!</h1>` | <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="50"></a> |    
+| `<h1> This is a simple HTML + CSS template! </h1> ` | <a href="https://codesandbox.io/p/sandbox/colour-sample-c5rjjd"><img src="https://raw.githubusercontent.com/lmnaslimited/wedha/80ece50628818336abdacc328e571d5455bec796/lms/media/code.svg" alt="Description" width="50" height="40"></a> |    
 |--|--|
 
 
@@ -149,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzgzNTI2NywxNzU3NzY2OTM0LC0xMT
+eyJoaXN0b3J5IjpbMTkxMjM2NDEwNiwxNzU3NzY2OTM0LC0xMT
 U4MzE4Nzg1LDE5ODg2MDc0NDIsMjEyMzI2OTI3Nl19
 -->
