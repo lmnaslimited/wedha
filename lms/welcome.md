@@ -2,7 +2,7 @@
 
 Welcome to **Cypress!** In this lesson, we will explore the foundational concepts of Cypress.
 
-## Lesson Structure
+# Lesson Structure
 
 ### Lesson 1 : Python API
 
@@ -32,5 +32,5 @@ We’ll focus on how to navigate to a specific website using Cypress and explore
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mjc2NDY1Ml19
+eyJoaXN0b3J5IjpbLTc0NDExNTMzLC04OTI3NjQ2NTJdfQ==
 -->
