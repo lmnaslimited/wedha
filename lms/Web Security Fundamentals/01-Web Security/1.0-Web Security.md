@@ -1,0 +1,34 @@
+
+# Web Security Fundamentals
+
+Welcome to **Cypress!** In this lesson, we will explore the foundational concepts of Cypress.
+
+## Lesson Structure
+
+### Lesson 1 : What is Web Security?
+
+An introduction to the fundamental concepts of web security, exploring common threats, vulnerabilities, and why securing web applications is essential.
+
+### Lesson 2 : Email Security
+
+Learn about the best practices for protecting email communications, including encryption, authentication, and how to safeguard against phishing attacks.
+
+### Lesson 3 : Browser Security
+Discover the key aspects of browser security, including secure browsing practices, handling browser extensions, and preventing common browser-based attacks.
+
+### Lesson 4 : Network Security
+Understand how to secure networks by implementing firewalls, VPNs, and intrusion detection systems, along with learning how to defend against DDoS attacks.
+
+### Lesson 5 : Application Security
+Explore secure coding practices, web application firewalls (WAF), and how to protect against common application vulnerabilities like XSS and SQL injection.
+
+## Moving Forward
+
+-   Review the key points from every lesson.
+-   Prepare for the next lesson by completing any assigned tasks.
+-   Stay engaged and ready for more learning!
+
+Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NjY3NDY5OThdfQ==
+-->
