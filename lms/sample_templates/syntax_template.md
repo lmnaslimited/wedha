@@ -31,8 +31,8 @@ cy.get('selector').click().type('text').should('have.value', 'text');
 -   [Cypress Documentation](%5B%5Bhttps://docs.cypress.io%5D(https://docs.cypress.io/)%5D(%5Bhttps://docs.cypress.io/%5D(https://docs.cypress.io/)))
     
 -   [Cypress GitHub Repository](%5B%5Bhttps://github.com/cypress-io/cypress%5D(https://github.com/cypress-io/cypress)%5D(%5Bhttps://github.com/cypress-io/cypress%5D(https://github.com/cypress-io/cypress)))
-
-![enter image description here](lms/media/Customize%20Core%20DocType.gif)
+- 
+![enter image description here](%28https://github.com/lmnaslimited/wedha/blob/framework/lms/media/API_JSON.png?raw=true%29)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzE5OTI3Ml19
+eyJoaXN0b3J5IjpbNDEzNjAzMDYzXX0=
 -->
