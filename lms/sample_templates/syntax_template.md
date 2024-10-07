@@ -32,7 +32,7 @@ cy.get('selector').click().type('text').should('have.value', 'text');
     
 -   [Cypress GitHub Repository](%5B%5Bhttps://github.com/cypress-io/cypress%5D(https://github.com/cypress-io/cypress)%5D(%5Bhttps://github.com/cypress-io/cypress%5D(https://github.com/cypress-io/cypress)))
 - 
-![enter image description here](%28https://github.com/lmnaslimited/wedha/blob/framework/lms/media/API_JSON.png?raw=true%29)
+![enter image description here](https://github.com/lmnaslimited/wedha/blob/framework/lms/media/API_JSON.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNjAzMDYzXX0=
+eyJoaXN0b3J5IjpbLTE2MTYzNTk2NDBdfQ==
 -->
