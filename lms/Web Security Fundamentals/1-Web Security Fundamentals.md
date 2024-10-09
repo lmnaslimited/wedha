@@ -5,7 +5,7 @@ Welcome to **Cypress!** In this lesson, we will explore the foundational concept
 
 ## Lesson Structure
 
-### Lesson 1 : What is Web Security?
+### Lesson 1 : Web Security
 
 An introduction to the fundamental concepts of web security, exploring common threats, vulnerabilities, and why securing web applications is essential.
 
@@ -30,5 +30,6 @@ Explore secure coding practices, web application firewalls (WAF), and how to pro
 
 Thank you for engaging with this lesson. We look forward to diving deeper in the next session!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODY4NTkzNiwtMTU2Njc0Njk5OF19
+eyJoaXN0b3J5IjpbLTExMjQ1MTc0MjksMTEwODY4NTkzNiwtMT
+U2Njc0Njk5OF19
 -->
