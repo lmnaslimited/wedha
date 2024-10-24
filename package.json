@@ -1,0 +1,17 @@
+{
+    "name": "Wedha",
+    "version": "1.0.0",
+    "description": "LENS LMS",
+    "main": "getLessons.js",
+    "type": "module",
+    "scripts": {
+      "get": "cd files && node getLessons.js",
+      "upload": "cd files && node uploadLMS.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "dotenv": "^16.4.5",
+      "eslint": "^9.2.0"
+    }
+  }
