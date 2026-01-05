@@ -8,7 +8,6 @@ By the end of this lesson, learners will be able to:
 - Identify benefits and common myths of Unit Testing
 - Know when to write Unit Tests
 
----
 
 ## What is Unit Testing?
 
@@ -20,7 +19,6 @@ Unit Testing is a type of software testing where **individual units or component
 **Example:**
 If you have a function that adds two numbers, Unit Testing ensures that function works correctly for different inputs.
 
----
 
 ## Difference between Unit Testing, Integration Testing, and System Testing
 
@@ -35,7 +33,6 @@ If you have a function that adds two numbers, Unit Testing ensures that function
 - Integration Testing → Testing how gears work together
 - System Testing → Testing the entire machine
 
----
 
 ## Why do we need Unit Testing?
 
@@ -45,7 +42,6 @@ If you have a function that adds two numbers, Unit Testing ensures that function
 - To improve code quality
 - To support confident refactoring
 
----
 
 ## Benefits of Unit Testing
 
@@ -68,7 +64,6 @@ If you have a function that adds two numbers, Unit Testing ensures that function
 ❌ “Unit tests are not needed for small projects”  
 ✅ Small projects benefit the most
 
----
 
 ## When Unit Testing should be written
 
@@ -77,7 +72,6 @@ If you have a function that adds two numbers, Unit Testing ensures that function
 - During refactoring
 - As part of Continuous Integration (CI)
 
----
 
 ## Summary
 
